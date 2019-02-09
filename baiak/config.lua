@@ -104,7 +104,7 @@
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
 	mysqlWriteTimeout = 10
-	encryptionType = "plain"
+	encryptionType = "sha1"
 
 
 	deathListEnabled = true
