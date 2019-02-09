@@ -1,238 +1,282 @@
-<div id="LayerPop" style="display:block; position:absolute; left:0px; top:0px; background-color:#1e1e22; width:100%; height:180%; z-index:100;margin:0px;opacity:0.75;"></div>
+<?php
+if(!defined('INITIALIZED'))
+	exit;
 
-<div id="LayerPop2" style="position: absolute; left: 330px; top: 80px; z-index: 5000;"><a href="?subtopic=buypoints "donate" target="_BLANK"><img src="baiak_promo.png" class="imgBorder"></a><br><a href="javascript:void();" onClick="document.getElementById('LayerPop').style.display = 'none';document.getElementById('LayerPop2').style.display = 'none'">
-<center><b>Fechar</b></a></center></div>
-<?PHP
-//######################## SHOW TICKERS AND NEWS #######################
-$time = time();
 
-/////////////////////////////////////////////////////////////////////////////////////////
-//The new edition of my script: Best Player, Last joined and something new Server Motd.//
-/////////////////////////Everything in the new appearance.///////////////////////////////
-//////////////////////////////////////by  Aleh///////////////////////////////////////////
-/////////////////////////////////////////////////////////////////////////////////////////
-///Queries ///
-$query = $SQL->query('SELECT `players`.`name`,`players`.`id`,`players`.`level`, `players`.`experience`, `server_motd`.`id`, `server_motd`.`text` FROM `players`,`server_motd` WHERE `players`.`group_id` < '.$config['site']['players_group_id_block'].' AND `players`.`name` != "Account Manager" ORDER BY `players`.`level` DESC, `players`.`experience` DESC, `server_motd`.`id` DESC LIMIT 1;')->fetch();
-$query2 = $SQL->query('SELECT `id`, `name` FROM `players` ORDER BY `id` DESC LIMIT 1;')->fetch();
-$housesfree = $SQL->query('SELECT COUNT(*) FROM `houses` WHERE `owner`=0;')->fetch();
-$housesrented = $SQL->query('SELECT COUNT(*) FROM `houses` WHERE `owner`=1;')->fetch();
-$players = $SQL->query('SELECT COUNT(*) FROM `players` WHERE `id`>0;')->fetch();
-$accounts = $SQL->query('SELECT COUNT(*) FROM `accounts` WHERE `id`>0;')->fetch();
-$banned = $SQL->query('SELECT COUNT(*) FROM `bans` WHERE `id`>0;')->fetch();
-$guilds = $SQL->query('SELECT COUNT(*) FROM `guilds` WHERE `id`>0;')->fetch();
-///End Queries ///
-
-    $main_content .= '<table bgcolor='.$config['site']['darkborder'].' border=0 cellpadding=4 cellspacing=1 width=100%>
-    <tr bgcolor='. $config['site']['vdarkborder'] .'><td align="center" class=white colspan=1><b>Welcome to '.$config['server']['serverName'].'</b></td></tr>
-    <tr><td><table border=0 cellpadding=1 cellspacing=1 width=100%>
-
-    <tr bgcolor='. $config['site']['lightborder'] .'><td><center>Last joined us: <a href="?subtopic=characters&name='.urlencode($query2['name']).'">'.$query2['name'].'</a>, player number '.$query2['id'].'. Welcome and wish you a nice game!</center></td></tr>
-    <tr bgcolor='. $config['site']['lightborder'] .'><td><center>Currently, the best player on the server is: <a href="index.php?subtopic=characters&name='.urlencode($query['name']).'"> '.$query['name'].'</a> ('.urlencode($query['level']).'). Congratulations!</center></td></tr>
-    <tr bgcolor='. $config['site']['lightborder'] .'><td><center><b>Server motd:</b> '.$query['text'].'</center></td></tr> 
-    <table border=0 cellpadding=0 cellspacing=1 width=100%>
-      <tr bgcolor='. $config['site']['lightborder'] .'><td><center><b>Free Houses:</b> '.$housesfree[0].'</center></td>
-    <td><center><b>Rented Houses:</b> '.$housesrented[0].'</center></td></tr>      
-    <tr bgcolor='. $config['site']['lightborder'] .'><td><center><b>Accounts</b> in database: '.$accounts[0].'</center></td>
-    <td><center><b>Players</b> in database: '.$players[0].'</center></td></tr>
-    <tr bgcolor='. $config['site']['lightborder'] .'><td><center><b>Banned</b> accounts: '.$banned[0].'</center></td>
-    <td><center><b>Guilds</b> in databese: '.$guilds[0].'</center></td></tr>
-
-</table></td></tr></table>';
-
-$main_content .= '<div class="NewsHeadline">
-        <div class="NewsHeadlineBackground" style="background-image:url(' . $layout_name . '/images/news/newsheadline_background.gif)">
-                <table border="0">
-                        <tr>
-                                
-                                        <center><font color="white"><b><font size="3">.:: Most Powerfull Guilds ::.</b></font></center>
-
-                        </tr>
-                </table>
-        </div>
-</div>
-<table border="0" cellspacing="3" cellpadding="4" width="100%">
-        <tr>';
-
-foreach($SQL->query('SELECT `g`.`id` AS `id`, `g`.`name` AS `name`,
-        `g`.`logo_gfx_name` AS `logo`, COUNT(`g`.`name`) as `frags`
-FROM `killers` k
-        LEFT JOIN `player_killers` pk ON `k`.`id` = `pk`.`kill_id`
-        LEFT JOIN `players` p ON `pk`.`player_id` = `p`.`id`
-        LEFT JOIN `guild_ranks` gr ON `p`.`rank_id` = `gr`.`id`
-        LEFT JOIN `guilds` g ON `gr`.`guild_id` = `g`.`id`
-WHERE `k`.`unjustified` = 1 AND `k`.`final_hit` = 1
-        GROUP BY `name`
-        ORDER BY `frags` DESC, `name` ASC
-        LIMIT 0, 4;') as $guild)
-        $main_content .= '              <td style="width: 25%; text-align: center;">
-                        <a href="?subtopic=guilds&action=show&guild=' . $guild['id'] . '"><img src="guilds/' . ((!empty($guild['logo']) && file_exists('guilds/' . $guild['logo'])) ? $guild['logo'] : 'default_logo.gif') . '" width="64" height="64" border="0"/><br />' . $guild['name'] . '</a><br />' . $guild['frags'] . ' kills
-                </td>';
-
-$main_content .= '      </tr>
-</table>';
-
-///Don't delete this! Please respect my work! I
-if($action == "") {
-
-//show tickers if any in database or not blocked (tickers limit = 0)
-$tickers = $SQL->query('SELECT * FROM `z_news_tickers` WHERE hide_ticker != 1 ORDER BY date DESC LIMIT 4;');
-$number_of_tickers = 0;
-if(is_object($tickers)) {
-foreach($tickers as $ticker) {
-if(is_int($number_of_tickers / 2))
-        $color = "Odd";
-else
-        $color = "Even";
-$tickers_to_add .= '<div id="TickerEntry-'.$number_of_tickers.'" class="Row" onclick=\'TickerAction("TickerEntry-'.$number_of_tickers.'")\'>
-  <div class="'.$color.'">
-    <div class="NewsTickerIcon" style="background-image: url('.$layout_name.'/images/news/icon_'.$ticker['image_id'].'.gif);"></div>
-    <div id="TickerEntry-'.$number_of_tickers.'-Button" class="NewsTickerExtend" style="background-image: url('.$layout_name.'/images/general/plus.gif);"></div>
-    <div class="NewsTickerText">
-      <span class="NewsTickerDate">'.date("j M Y", $ticker['date']).' -</span>
-      <div id="TickerEntry-'.$number_of_tickers.'-ShortText" class="NewsTickerShortText">';
-//if admin show button to delete (hide) ticker
-if($group_id_of_acc_logged >= $config['site']['access_admin_panel']) {
-$tickers_to_add .= '<a href="?subtopic=latestnews&action=deleteticker&id='.$ticker['date'].'"><img src="'.$layout_name.'/images/news/delete.png" border="0"></a>';
-}
-$tickers_to_add .= short_text($ticker['text'], 60).'</div>
-      <div id="TickerEntry-'.$number_of_tickers.'-FullText" class="NewsTickerFullText">';
-//if admin show button to delete (hide) ticker
-if($group_id_of_acc_logged >= $config['site']['access_admin_panel']) {
-$tickers_to_add .= '<a href="?subtopic=latestnews&action=deleteticker&id='.$ticker['date'].'"><img src="'.$layout_name.'/images/news/delete.png" border="0"></a>';
-}
-$tickers_to_add .= $ticker['text'].'</div>
-    </div>
-  </div>
-</div>';
-$number_of_tickers++;
-}
-}
-
-if(!empty($tickers_to_add)) {
-//show table with tickers
-$news_content .= '<div id="newsticker" class="Box">
-    <div class="Corner-tl" style="background-image: url('.$layout_name.'/images/content/corner-tl.gif);"></div>
-    <div class="Corner-tr" style="background-image: url('.$layout_name.'/images/content/corner-tr.gif);"></div>
-    <div class="Border_1" style="background-image: url('.$layout_name.'/images/content/border-1.gif);"></div>
-    <div class="BorderTitleText" style="background-image: url('.$layout_name.'/images/content/title-background-green.gif);"></div>
-    <img class="Title" src="'.$layout_name.'/images/header/headline-newsticker.gif" alt="Contentbox headline">
-    <div class="Border_2">
-      <div class="Border_3">
-        <div class="BoxContent" style="background-image: url('.$layout_name.'/images/content/scroll.gif);">';
-if($group_id_of_acc_logged >= $config['site']['access_admin_panel'])
-$news_content .= '<script type="text/javascript">
-var showednewticker_state = "0";
-function showNewTickerForm()
-{
-if(showednewticker_state == "0") {
-document.getElementById("newtickerform").innerHTML = \'<form action="?subtopic=latestnews&action=newticker" method="post" ><table border="0"><tr><td bgcolor="D4C0A1" align="center"><b>Select icon:</b></td><td><table border="0" bgcolor="F1E0C6"><tr><td><img src="images/news/icon_0.gif" width="20"></td><td><img src="images/news/icon_1.gif" width="20"></td><td><img src="images/news/icon_2.gif" width="20"></td><td><img src="images/news/icon_3.gif" width="20"></td><td><img src="images/news/icon_4.gif" width="20"></td></tr><tr><td><input type="radio" name="icon_id" value="0" checked="checked"></td><td><input type="radio" name="icon_id" value="1"></td><td><input type="radio" name="icon_id" value="2"></td><td><input type="radio" name="icon_id" value="3"></td><td><input type="radio" name="icon_id" value="4"></td></tr></table></td></tr><tr><td align="center" bgcolor="D4C0A1"><b>New<br>ticker<br>text:</b></td><td bgcolor="F1E0C6"><textarea name="new_ticker" rows="3" cols="45"></textarea></td></tr><tr><td><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><input class="ButtonText" type="image" name="Submit" alt="Submit" src="'.$layout_name.'/images/buttons/_sbutton_submit.gif" ></div></div></form><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><img class="ButtonText" id="AddTicker" src="'.$layout_name.'/images/buttons/_sbutton_cancel.gif" onClick="showNewTickerForm()" alt="AddTicker" /></div></div></td></tr></table>\';
-document.getElementById("jajo").innerHTML = \'\';
-showednewticker_state = "1";
-}
-else {
-document.getElementById("newtickerform").innerHTML = \'\';
-document.getElementById("jajo").innerHTML = \'<div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><img class="ButtonText" id="AddTicker" src="'.$layout_name.'/images/buttons/addticker.gif" onClick="showNewTickerForm()" alt="AddTicker" /></div></div>\';
-showednewticker_state = "0";
-}
-}
-</script><div id="newtickerform"></div><div id="jajo"><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><img class="ButtonText" id="AddTicker" src="'.$layout_name.'/images/buttons/addticker.gif" onClick="showNewTickerForm()" alt="AddTicker" /></div></div></div><hr/>';
-//add tickers list
-$news_content .= $tickers_to_add;
-//koniec
-$news_content .= '</div>
-      </div>
-    </div>
-    <div class="Border_1" style="background-image: url('.$layout_name.'/images/content/border-1.gif);"></div>
-    <div class="CornerWrapper-b"><div class="Corner-bl" style="background-image: url('.$layout_name.'/images/content/corner-bl.gif);"></div></div>
-    <div class="CornerWrapper-b"><div class="Corner-br" style="background-image: url('.$layout_name.'/images/content/corner-br.gif);"></div></div>
-  </div>';
-}
-}
-//##################### ADD NEW TICKER #####################
-if($action == "newticker") {
-if($group_id_of_acc_logged >= $config['site']['access_tickers']) {
-$ticker_text = stripslashes(trim($_POST['new_ticker']));
-$ticker_icon = (int) $_POST['icon_id'];
-if(empty($ticker_text)) {
-$main_content .= 'You can\'t add empty ticker.';
-}
-else
-{
-if(empty($ticker_icon)) {
-$ticker_icon = 0;
-}
-$SQL->query('INSERT INTO '.$SQL->tableName('z_news_tickers').' (date, author, image_id, text, hide_ticker) VALUES ('.$SQL->quote($time).', '.$account_logged->getId().', '.$ticker_icon.', '.$SQL->quote($ticker_text).', 0)');
-$main_content .= '<center><h2><font color="red">Added new ticker:</font></h2></center><hr/><div id="newsticker" class="Box"><div id="TickerEntry-1" class="Row" onclick=\'TickerAction("TickerEntry-1")\'>
-  <div class="Odd">
-    <div class="NewsTickerIcon" style="background-image: url('.$layout_name.'/images/news/icon_'.$ticker['image_id'].'.gif);"></div>
-    <div id="TickerEntry-1-Button" class="NewsTickerExtend" style="background-image: url('.$layout_name.'/images/general/plus.gif);"></div>
-    <div class="NewsTickerText">
-      <span class="NewsTickerDate">'.date("j M Y", $time).' -</span>
-      <div id="TickerEntry-1-ShortText" class="NewsTickerShortText">';
-$main_content .= '<a href="?subtopic=latestnews&action=deleteticker&id='.$time.'"><img src="'.$layout_name.'/images/news/delete.png" border="0"></a>';
-$main_content .= short_text($ticker_text, 60).'</div>
-      <div id="TickerEntry-1-FullText" class="NewsTickerFullText">';
-$main_content .= '<a href="?subtopic=latestnews&action=deleteticker&id='.$time.'"><img src="'.$layout_name.'/images/news/delete.png" border="0"></a>';
-$main_content .= $ticker_text.'</div>
-    </div>
-  </div>
-</div></div><hr/>';
-}
-}
-else
-{
-$main_content .= 'You don\'t have admin rights. You can\'t add new ticker.';
-}
-$main_content .= '<form action="?subtopic=latestnews" METHOD=post><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><input class="ButtonText" type="image" name="Back" alt="Back" src="'.$layout_name.'/images/buttons/_sbutton_back.gif" ></div></div></form>';
-}
-//#################### DELETE (HIDE only!) TICKER ############################
-if($action == "deleteticker") {
-if($group_id_of_acc_logged >= $config['site']['access_tickers']) {
-header("Location: ");
-$date = (int) $_REQUEST['id'];
-$SQL->query('UPDATE '.$SQL->tableName('z_news_tickers').' SET hide_ticker = 1 WHERE '.$SQL->fieldName('date').' = '.$date.';');
-$main_content .= '<center>News tickets with <b>date '.date("j F Y, g:i a", $date).'</b> has been deleted.<form action="?subtopic=latestnews" METHOD=post><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><input class="ButtonText" type="image" name="Back" alt="Back" src="'.$layout_name.'/images/buttons/_sbutton_back.gif" ></div></div></form></center>';
-}
-else
-{
-$main_content .= '<center>You don\'t have admin rights. You can\'t delete tickers.<form action="?subtopic=latestnews" METHOD=post><div class="BigButton" style="background-image:url('.$layout_name.'/images/buttons/sbutton.gif)" ><div onMouseOver="MouseOverBigButton(this);" onMouseOut="MouseOutBigButton(this);" ><div class="BigButtonOver" style="background-image:url('.$layout_name.'/images/buttons/sbutton_over.gif);" ></div><input class="ButtonText" type="image" name="Back" alt="Back" src="'.$layout_name.'/images/buttons/_sbutton_back.gif" ></div></div></form></center>';
-}
-}
-if($group_id_of_acc_logged >= $config['site']['access_admin_panel']){$main_content .=  '<a href="?subtopic=forum&action=new_topic&section_id=1">Add new news</a>';}
-$zapytanie = $SQL->query("SELECT `z_forum`.`post_topic`, `z_forum`.`author_guid`, `z_forum`.`post_date`, `z_forum`.`post_text`, `z_forum`.`id`, `z_forum`.`replies`, `players`.`name` FROM `z_forum`, `players` WHERE `section` = '1' AND `z_forum`.`id` = `first_post` AND `players`.`id` = `z_forum`.`author_guid` ORDER BY `post_date` DESC LIMIT 3;")->fetchAll();
-foreach ($zapytanie as $row)
-{
-         $BB = array(
-		'/\[b\](.*?)\[\/b\]/is' => '<strong>$1</strong>',
-		'/\[quote\](.*?)\[\/quote\]/is' => '<table cellpadding="0" style="background-color: #c4c4c4; width: 480px; border-style: dotted; border-color: #007900; border-width: 2px"><tr><td>$1</td></tr></table>',
-		'/\[u\](.*?)\[\/u\]/is' => '<u>$1</u>',
-		'/\[i\](.*?)\[\/i\]/is' => '<i>$1</i>',
-		'/\[url](.*?)\[\/url\]/is' => '<a href=$1>$1</a>',
-		'/\[img\](.*?)\[\/img\]/is' => '<img src=$1 alt=$1 />',
-		'/\[player\](.*?)\[\/player\]/is' => '<a href='.$server['ip'].'?subtopic=characters&amp;name=$1>$1</a>',
-		'/\[code\](.*?)\[\/code\]/is' => '<div dir="ltr" style="margin: 0px;padding: 2px;border: 1px inset;width: 500px;height: 290px;text-align: left;overflow: auto"><code style="white-space:nowrap">$1</code></div>'
-		);
-		$message = preg_replace(array_keys($BB), array_values($BB), nl2br($row['post_text']));
-        $main_content .= '<div class=\'NewsHeadline\'>
-		<div class=\'NewsHeadlineBackground\' style=\'background-image:url('.$layout_name.'/images/news/newsheadline_background.gif)\'>
-		<table border=0><tr><td><img src="'.$layout_name.'/images/news/icon_1.gif" class=\'NewsHeadlineIcon\' alt=\'\' />
-		</td><td><font color="'.$layout_ini['news_title_color'].'">'.date('d.m.y H:i:s', $row['post_date']).' - <b>'.$row['post_topic'].'</b></font></td></tr></table>
+//var_dump($config['server']);
+//News Ticker
+$news_content .= '
+	<div id="NewsTicker" class="Box">
+		<div class="Corner-tl" style="background-image:url('.$layout_name.'/images/global/content/corner-tl.gif);"></div>
+		<div class="Corner-tr" style="background-image:url('.$layout_name.'/images/global/content/corner-tr.gif);"></div>
+		<div class="Border_1" style="background-image:url('.$layout_name.'/images/global/content/border-1.gif);"></div>
+		<div class="BorderTitleText" style="background-image:url('.$layout_name.'/images/global/content/title-background-green.gif);"></div>
+    	<img id="ContentBoxHeadline" class="Title" src="headline.php?text=News Ticker" alt="Contentbox headline">
+    	<div class="Border_2">
+      		<div class="Border_3">
+        		<div class="BoxContent" style="background-image:url('.$layout_name.'/images/global/content/scroll.gif);">';
+				//Show Tickers
+				$tickers = $SQL->query('SELECT * FROM '.$SQL->tableName('z_news_tickers').' ORDER BY '.$SQL->fieldName('date').' DESC LIMIT 7;');
+				$number_of_tickers = 0;
+				if(is_object($tickers))
+				{
+					foreach($tickers as $ticker) 
+					{
+						if(is_int($number_of_tickers / 2))
+							$color = "Odd";
+						else
+							$color = "Even";
+							
+						$tickers_to_add .= '
+							<div id="TickerEntry-'.$number_of_tickers.'" class="Row" onclick=\'TickerAction("TickerEntry-'.$number_of_tickers.'")\'>
+								<div class="'.$color.'">
+									<div class="NewsTickerIcon" style="background-image:url('.$layout_name.'/images/global/content/'.$ticker['icon'].'_small.gif)"></div>
+									<div id="TickerEntry-'.$number_of_tickers.'-Button" class="NewsTickerExtend" style="background-image:url('.$layout_name.'/images/global/general/plus.gif)"></div>
+									<div class="NewsTickerText">
+										<span class="NewsTickerDate">'.date("M j Y", $ticker['date']).' - </span>
+										<div id="TickerEntry-'.$number_of_tickers.'-ShortText" class="NewsTickerShortText">'.short_text($ticker['text'], 100).'</div>
+										<div id="TickerEntry-'.$number_of_tickers.'-FullText" class="NewsTickerFullText">'.$ticker['text'].'</div>
+									</div>
+								</div>
+							</div>';
+						$number_of_tickers++;
+					}
+				}
+				$news_content .= $tickers_to_add;
+					
+				$news_content .= '
+				</div>
+			</div>
 		</div>
-		</div>
-		<table style=\'clear:both\' border=0 cellpadding=0 cellspacing=0 width=\'100%\'><tr>
-		<td><img src="'.$layout_name.'/images/global/general/blank.gif" width=10 height=1 border=0 alt=\'\' /></td>';
-		if($group_id_of_acc_logged >= $config['site']['access_admin_panel'])
-		{
-			$main_content .='<td width="100%">'.$message.'<br><h6><i>Posted by </i><font color="green">'.$row['name'].'</font></h6><p align="right"><a href="?subtopic=forum&action=remove_post&id='.$row['id'].'"><font color="red">[Delete this news]</font></a>  <a href="?subtopic=forum&action=edit_post&id='.$row['id'].'"><font color="green">[Edit this news]</font></a>      <a href="?subtopic=forum&action=show_thread&id='.$row['id'].'">Comments: '.$row['replies'].'</a></p>';
-		}
-		else		
-		{
-			$main_content .='<td width="100%">'.$message.'<br><h6><i>Posted by </i><font color="green">'.$row['name'].'</font></h6><p align="right"><a href="?subtopic=forum&action=show_thread&id='.$row['id'].'">Comments: '.$row['replies'].'</a></p>';		
-		}
-		$main_content .= '</td>
-		<td><img src="'.$layout_name.'/images/global/general/blank.gif" width=10 height=1 border=0 alt=\'\' /></td>
-		</tr></table>';
+		<div class="Border_1" style="background-image: url('.$layout_name.'/images/global/content/border-1.gif);"></div>
+		<div class="CornerWrapper-b"><div class="Corner-bl" style="background-image: url('.$layout_name.'/images/global/content/corner-bl.gif);"></div></div>
+		<div class="CornerWrapper-b"><div class="Corner-br" style="background-image: url('.$layout_name.'/images/global/content/corner-br.gif);"></div></div>
+	</div>';
+//End Tickers
+
+//Featured Article
+	$news_content .= '
+		<div id="FeaturedArticle" class="Box">
+			<div class="Corner-tl" style="background-image:url('.$layout_name.'/images/global/content/corner-tl.gif);"></div>
+			<div class="Corner-tr" style="background-image:url('.$layout_name.'/images/global/content/corner-tr.gif);"></div>
+			<div class="Border_1" style="background-image:url('.$layout_name.'/images/global/content/border-1.gif);"></div>
+			<div class="BorderTitleText" style="background-image:url('.$layout_name.'/images/global/content/title-background-green.gif);"></div>
+			<img id="ContentBoxHeadline" class="Title" src="headline.php?text=Featured Article" alt="Contentbox headline">
+    		<div class="Border_2">
+      			<div class="Border_3">
+        			<div class="BoxContent" style="background-image:url('.$layout_name.'/images/global/content/scroll.gif);">
+						<div id="TeaserThumbnail">
+							<img src="'.$layout_name.'/images/news/announcement.gif" width="150" height="100" border="0" alt="">
+						</div>
+                    <div style="position: relative; top: -9px; margin-bottom: 10px;"><br>
+				 <font size="2px"></font><center><font size="2px"><b> IP:</b> tibia.com |&nbsp;  <b>Port:</b> 7171 |&nbsp;  <b>Version:</b> 10.00 and 11.50</font> <br> </a></center><br><font size="2px"><b>'.$config['server']['serverName'].'</b> - <a href="/?subtopic=serverinfo" <b="">Server Info</a> - <small>(learn to do <b><a href="/?subtopic=serverinfo&action=tutorialdonate" <b="">Donate</a></b> and use our <b><a href="/?subtopic=serverinfo&action=tutorialshop" <b="">Shop Online</a></b>)</small> <br><br> Welcome to <b><font color="green">'.$config['server']['serverName'].'</font></b>, we count on map most complete of all servers currently, Cooldown and reworked Spells for a more dynamic and fun PvP.<br>Several bugs fixed and being fixed daily. Come check out the best server of all time! <br><a href="/?subtopic=createaccount" <b="">Create your account now</a> here your fun is guaranteed!
+                </font> </div>
+						<a id="Link" style="position: absolute; margin-bottom: 10px; top: 40px;" href="?subtopic=newsarchive&view=1">» read more</a>
+						</div>
+      				</div>
+    			</div>
+			<div class="Border_1" style="background-image:url('.$layout_name.'/images/global/content/border-1.gif);"></div>
+			<div class="CornerWrapper-b"><div class="Corner-bl" style="background-image:url('.$layout_name.'/images/global/content/corner-bl.gif);"></div></div>
+			<div class="CornerWrapper-b"><div class="Corner-br" style="background-image:url('.$layout_name.'/images/global/content/corner-br.gif);"></div></div>
+  		</div>
+	';
+//End Featured Article
+
+//Functions
+function replaceSmile($text, $smile)
+{
+    $smileys = array(
+						':p' => 1, 
+						':eek:' => 2, 
+						':rolleyes:' => 3, 
+						';)' => 4, 
+						':o' => 5, 
+						':D' => 6,  
+						':(' => 7, 
+						':mad:' => 8,
+						':)' => 9,
+						':cool:' => 10
+					);
+    if($smile == 1)
+        return $text;
+    else
+    {
+        foreach($smileys as $search => $replace)
+            $text = str_replace($search, '<img src="./images/forum/smile/'.$replace.'.gif" />', $text);
+        return $text;
+    }
 }
 
-?>
+function replaceAll($text, $smile)
+{
+    $rows = 0;
+
+    while(stripos($text, '[code]') !== false && stripos($text, '[/code]') !== false )
+    {
+        $code = substr($text, stripos($text, '[code]')+6, stripos($text, '[/code]') - stripos($text, '[code]') - 6);
+        if(!is_int($rows / 2)) { $bgcolor = 'ABED25'; } else { $bgcolor = '23ED25'; } $rows++;
+        $text = str_ireplace('[code]'.$code.'[/code]', '<i>Code:</i><br /><table cellpadding="0" style="background-color: #'.$bgcolor.'; width: 480px; border-style: dotted; border-color: #CCCCCC; border-width: 2px"><tr><td>'.$code.'</td></tr></table>', $text);
+    }
+    $rows = 0;
+    while(stripos($text, '[quote]') !== false && stripos($text, '[/quote]') !== false )
+    {
+        $quote = substr($text, stripos($text, '[quote]')+7, stripos($text, '[/quote]') - stripos($text, '[quote]') - 7);
+        if(!is_int($rows / 2)) { $bgcolor = 'AAAAAA'; } else { $bgcolor = 'CCCCCC'; } $rows++;
+        $text = str_ireplace('[quote]'.$quote.'[/quote]', '<table cellpadding="0" style="background-color: #'.$bgcolor.'; width: 480px; border-style: dotted; border-color: #007900; border-width: 2px"><tr><td>'.$quote.'</td></tr></table>', $text);
+    }
+    $rows = 0;
+    while(stripos($text, '[url]') !== false && stripos($text, '[/url]') !== false )
+    {
+        $url = substr($text, stripos($text, '[url]')+5, stripos($text, '[/url]') - stripos($text, '[url]') - 5);
+        $text = str_ireplace('[url]'.$url.'[/url]', '<a href="'.$url.'" target="_blank">'.$url.'</a>', $text);
+    }
+    while(stripos($text, '[player]') !== false && stripos($text, '[/player]') !== false )
+    {
+        $player = substr($text, stripos($text, '[player]')+8, stripos($text, '[/player]') - stripos($text, '[player]') - 8);
+        $text = str_ireplace('[player]'.$player.'[/player]', '<a href="?subtopic=characters&name='.urlencode($player).'">'.$player.'</a>', $text);
+    }
+    while(stripos($text, '[img]') !== false && stripos($text, '[/img]') !== false )
+    {
+        $img = substr($text, stripos($text, '[img]')+5, stripos($text, '[/img]') - stripos($text, '[img]') - 5);
+        $text = str_ireplace('[img]'.$img.'[/img]', '<img src="'.$img.'">', $text);
+    }
+	while(stripos($text, '[letter]') !== false && stripos($text, '[/letter]') !== false )
+    {
+        $letter = substr($text, stripos($text, '[letter]')+8, stripos($text, '[/letter]') - stripos($text, '[letter]') - 8);
+        $text = str_ireplace('[letter]'.$letter.'[/letter]', '<img src="./images/forum/letters/letter_martel_'.$letter.'.gif">', $text);
+    }
+    while(stripos($text, '[b]') !== false && stripos($text, '[/b]') !== false )
+    {
+        $b = substr($text, stripos($text, '[b]')+3, stripos($text, '[/b]') - stripos($text, '[b]') - 3);
+        $text = str_ireplace('[b]'.$b.'[/b]', '<b>'.$b.'</b>', $text);
+    }
+    while(stripos($text, '[i]') !== false && stripos($text, '[/i]') !== false )
+    {
+        $i = substr($text, stripos($text, '[i]')+3, stripos($text, '[/i]') - stripos($text, '[i]') - 3);
+        $text = str_ireplace('[i]'.$i.'[/i]', '<i>'.$i.'</i>', $text);
+    }
+    while(stripos($text, '[u]') !== false && stripos($text, '[/u]') !== false )
+    {
+        $u = substr($text, stripos($text, '[u]')+3, stripos($text, '[/u]') - stripos($text, '[u]') - 3);
+        $text = str_ireplace('[u]'.$u.'[/u]', '<u>'.$u.'</u>', $text);
+    }
+    return replaceSmile($text, $smile);
+}
+
+function showPost($topic, $text, $smile)
+{
+    $post = '';
+    if(!empty($topic))
+        $post .= '<b>'.replaceSmile($topic, $smile).'</b>';
+    $post .= replaceAll($text, $smile);
+    return $post;
+}
+//End Functions
+
+//Most Powerfull Guilds
+	$main_content .= '
+<div class="InnerTableContainer">
+					<div class="TableShadowContainerRightTop">
+						<div class="TableShadowRightTop" style="background-image: url('.$layout_name.'/images/global/content/table-shadow-rt.gif);"></div>
+					</div>
+						<div class="TableContentAndRightShadow" style="background-image: url('.$layout_name.'/images/global/content/table-shadow-rm.gif);">
+							<div class="TableContentContainer">
+								<table class="TableContent" style="border: 1px solid #faf0d7;">
+									<tbody>
+										<tr style="background-color: #505050;">
+										</tr>
+											<tr class="Table" style="background-color: #d4c0a1;">
+												<td style="width: 800; border: 1px; border-style: solid; border-color: #FAF0D7;">
+													<div class="NewsHeadline">
+														<div class="NewsHeadlineBackground" style="background-image:url(' . $layout_name . '/images/global/content/newsheadline_background.gif)">
+															<table border="0">
+																<tr>
+
+											
+
+<center><font color="#CD3700"><img alt="" src="layouts/revo/_img/content/guilds.png" height="29" width="628"/>&nbsp;</a></center>
+
+																</tr>
+															</table>
+														</div>
+													</div>
+													
+												<table border="0" cellspacing="3" cellpadding="4" width="100%">
+											<tr>';
+											            
+
+										$guildsPower = $SQL->query('SELECT `name`, `id`, `frags_semana` from `guilds` ORDER BY `frags_semana` DESC LIMIT 4')->fetchAll();
+
+												$main_content .= '<tr>';
+											foreach($guildsPower as $guildp) {
+												$main_content .= '
+													<td style="width: 25%; text-align: center;">
+														<a href="?subtopic=guilds&action=show&guild=' . $guildp['id'] . '"><img src="guild_image.php?id=' . $guildp['id'] . '" width="64" height="64" border="0"/><br />' . $guildp['name'] . '</a><br />' . $guildp['frags_semana'] . ' kills
+													</td>';
+											}
+												$main_content .= '
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</div>
+											<div class="TableShadowContainer">
+										<div class="TableBottomShadow" style="background-image: url('.$layout_name.'/images/global/content/table-shadow-bm.gif);">
+									<div class="TableBottomLeftShadow" style="background-image: url('.$layout_name.'/images/global/content/table-shadow-bl.gif);"></div>
+								<div class="TableBottomRightShadow" style="background-image: url('.$layout_name.'/images/global/content/table-shadow-br.gif);"></div>
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+<br />';
+//Most Powerfull Guilds End
+
+//Here start news
+	$last_threads = $SQL->query('SELECT ' . $SQL->tableName('players') . '.' . $SQL->fieldName('name') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_text') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_topic') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('icon_id') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_icon_id') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_smile') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('id') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('replies') . ', ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_date') . ' FROM ' . $SQL->tableName('players') . ', ' . $SQL->tableName('z_forum') . ' WHERE ' . $SQL->tableName('players') . '.' . $SQL->fieldName('id') . ' = ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('author_guid') . ' AND ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('section') . ' = 1 AND ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('first_post') . ' = ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('id') . ' ORDER BY ' . $SQL->tableName('z_forum') . '.' . $SQL->fieldName('post_date') . ' DESC LIMIT ' . $config['site']['news_limit'])->fetchAll();
+
+	   $main_content .= '
+	   <div id = "face">
+<div class="fb-page" data-href="https://www.facebook.com/ntogran" data-tabs="timeline" data-width="450" data-height="500" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/ntogran" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ntogran">Nto Gran</a></blockquote></div></div><br><br>
+';
+
+
+    if(isset($last_threads[0]))
+    {
+        foreach($last_threads as $thread)
+        {
+            $main_content .= '
+				<div class="NewsHeadline">
+					<div class="NewsHeadlineBackground" style="background-image:url('.$layout_name.'/images/global/content/newsheadline_background.gif)">
+						<img src="'.$layout_name.'/images/global/content/'.$thread['news_icon'].'.gif" class="NewsHeadlineIcon" alt=\'\' />
+						<div class="NewsHeadlineDate">'.date('M d Y', $thread['post_date']).' -</div>
+    					<div class="NewsHeadlineText">'.htmlspecialchars($thread['post_topic']).'</div>
+					</div>
+				</div>
+				<table style=\'clear:both\' border=0 cellpadding=0 cellspacing=0 width=\'100%\'>
+				<tr>';
+            $main_content .= '
+				<td style=\'padding-left:10px;padding-right:10px;\' >' . showPost('', $thread['post_text'], $thread['post_smile']) . '<br>';
+			if($group_id_of_acc_logged >= $config['site']['access_admin_panel'])
+				$main_content .= '
+					<p align="right"><a href="?subtopic=forum&action=edit_post&id=' . $thread['id'] . '">» Edit this news</a></p>';
+				$main_content .= '
+					<p align="right"><a href="?subtopic=forum&action=show_thread&id=' . $thread['id'] . '">» Comment on this news</a></p>
+				</td>';
+        
+			$main_content .= '
+				<td>
+					<img src="'.$layout_name.'/images/global/general/blank.gif" width=10 height=1 border=0 alt=\'\' />
+				</td>
+			</tr>
+		</table><br />';
+		}
+    }
+    else
+        $main_content .= '';
 
