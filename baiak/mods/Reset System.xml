@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mod name="Reset System" version="1.0" author="Kimoszin" contact="tibiaking.com" enabled="yes">
+ 
+    <!-- Configuracao -->
+        <config name="reset_config"><![CDATA[
+                config = {
+                        level = 10000,                      -- Level minimo para resetar
+                        premium = false,         -- Precisa de premium, sim = true, nao = false
+                        storage = 54676,
+                }
+ 
+                function reset(cid)
+                        if (config.premium and not(isPremium(cid)) ) then
+                                return doPlayerSendTextMessage(cid, MESSAGE_EVENT_ADVANCE, "You need have a premium account.")
+                        end
+ 
+                        if (getPlayerLevel(cid) < config.level) then
+                                return doPlayerSendTextMessage(cid, MESSAGE_EVENT_ADVANCE, "You must be at least level "..config.level..".")
+                        end
+ 
+                        if not(getTilePzInfo(getCreaturePosition(cid))) then
+                                return doPlayerSendTextMessage(cid, MESSAGE_EVENT_ADVANCE, "You must be in protect zone.")
+                        end
+                       
+                        doPlayerAddLevel(cid, - (getPlayerLevel(cid) - 8))
+                        doSendMagicEffect(getCreaturePosition(cid), CONST_ME_MAGIC_GREEN)
+                        doCreatureSetStorage(cid, config.storage, getResets(cid))
+                        return doPlayerSendTextMessage(cid, MESSAGE_EVENT_ADVANCE, "Congratulations, you have been reset. Now you have "..getResets(cid).." resets.")
+                end
+ 
+                function getResets(cid)
+                        return (isPlayer(cid) and getCreatureStorage(cid, config.storage) + 1)
+                end
+        ]]></config>
+ 
+        <!-- Talkaction para resetar -->
+        <talkaction words="!reset" event="buffer"><![CDATA[
+                domodlib('reset_config')
+                reset(cid)
+        ]]></talkaction>
+ 
+        <!-- Talkaction para ver quantos resets tem -->
+        <talkaction words="!myResets" event="buffer"><![CDATA[
+                domodlib('reset_config')
+                return doPlayerSendTextMessage(cid, MESSAGE_EVENT_ADVANCE, "You have "..getResets(cid).." resets.")
+        ]]></talkaction>
+ 
+        <!-- Tile -->
+        <movevent type="StepIn" actionid="9991" event="script"><![CDATA[
+                domodlib('reset_config')
+                function onStepIn(cid, item, position, fromPosition)
+                        local minResets = 1
+ 
+                        if (not(getResets(cid) >= minResets)) then
+                                doPlayerSendCancel(cid, "Sorry, you need "..minResets.." resets")
+                                return doTeleportThing(cid, fromPosition)
+                        end
+ 
+                        doPlayerSendCancel(cid, "Welcome")
+                end
+        ]]></movevent>
+ 
+        <!-- Porta -->
+        <action actionid="9990" event="script"><![CDATA[
+                domodlib('reset_config')
+                function onUse(cid, item, position, fromPosition)
+                        local minResets = 4
+ 
+                        if not(getResets(cid) >= minResets) then
+                                return doPlayerSendCancel(cid, "Desculpa,voce presisa de "..minResets.." resets")
+                        end
+ 
+                        doPlayerSendCancel(cid, "Bem Vindo")
+                end
+        ]]></action>
+</mod>

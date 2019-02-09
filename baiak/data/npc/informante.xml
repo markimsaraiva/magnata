@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="informante" script="data/npc/scripts/default.lua" walkinterval="0" speed="100" walkradius="20" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="128" head="0" body="114" legs="114" feet="0" addons="1" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Bem Vindo Ao Baiak Zik Para mais informações fale Itens Magnata,Area Ultimate,Area Aupreme,Itens Ultimate,Itens Supreme"/>
+		<!--KEYWORDS-->
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="itens Magnata;area ultimate;area supreme;itens supreme;itens ultimate"/>
+		<parameter key="keyword_reply1" value="Para comprar itens Magnata você deve doar qualquer valor para mais info fale !doar"/>
+		<parameter key="keyword_reply2" value="Para ter acesso a area ultimate você deve fazer a quest supreme que fica na area supreme é bom ir em grupo"/>
+		<parameter key="keyword_reply3" value="Para ter acesso a area supreme você deve compra com o npc Supreme Seller ele vende no valor de 80kk"/>
+		<parameter key="keyword_reply4" value="Para comprar itens supreme vá até o npc Supreme Seller ele vai vender para você "/>
+		<parameter key="keyword_reply5" value="Para Pegar Itens Ultimate você deve fazer a quest que fica na area ultimate é bom ir em grupo"/>
+	</parameters>
+</npc>

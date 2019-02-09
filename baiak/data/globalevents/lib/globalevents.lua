@@ -1,0 +1,1 @@
+dofile(getDataDir() .."globalevents/lib/Rain.lua")

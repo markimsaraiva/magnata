@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Supreme Mad" script="data/npc/scripts/suloot.lua" walkinterval="2000" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="289" head="0" body="114" legs="0" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Eu Compro Seus loots Supreme Em Dobro."/>
+		<parameter key="shop_sellable" value="magic plate armor,2472,400000;mastermind shield,2514,300000;dragon scale mail,2492,120000;boots of haste,2195,800000;"/>
+		<parameter key="shop_buyable" value="helmet of the deep,5461,10000;"/>
+	</parameters>
+</npc>

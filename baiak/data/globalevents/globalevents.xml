@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="save" interval="10000" event="script" value="save.lua"/>
+	<globalevent name="clean" interval="2000" event="script" value="clean.lua"/>
+        <globalevent name="info" interval="6000" event="script" value="info.lua"/>
+        <globalevent name="magia" interval="1" event="script" value="magia.lua"/>
+         <globalevent name="info2" interval="4000" event="script" value="info2.lua"/>
+         <globalevent name="info3" interval="2000" event="script" value="info3.lua"/>
+		 <globalevent name="info4" interval="2000" event="script" value="info4.lua"/>
+		 <globalevent name="info5" interval="2000" event="script" value="info4.lua"/>
+         <globalevent name="saveplayer" interval="3500" event="script" value="saveplayer.lua"/>
+        <globalevent name="rain" interval="0" event="script" value="rain.lua"/>
+        <globalevent name="ZombieGlobalThink" interval="5" event="script" value="zombie/onthink.lua"/>
+<globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
+        <globalevent name="invasion" interval="6" event="script" value="invasion.lua"/>
+        <globalevent name="lottery" interval="2400" script="lottery.lua"/>
+        <globalevent name="offtrain_add_minutes" interval="6000" event="script" value="offtrain_addMinutes.lua"/>
+	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
+	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+	<globalevent name="shop" interval="30" script="shop.lua"/>
+        <globalevent name="talkactions" interval="2000" event="script" value="talkactions.lua"/>
+        <!--<globalevent name="GuildFrags" interval="1800" event="script" value="GuildFragsInfo.lua"/>  -->  
+        <globalevent name="info," interval="1200" event="script" value="info,.lua"/>
+        <globalevent name="tps" interval="0" script="tps.lua" />
+        
+
+
+<!-- <globalevent name="timer_example" time="21:35:00" event="script" value="my_script.lua"/> -->
+</globalevents>

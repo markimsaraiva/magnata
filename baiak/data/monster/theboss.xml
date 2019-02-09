@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="TheBoss" nameDescription="a TheBoss" race="venom" experience="5000000" speed="320" manacost="0">
+<health now="9999999" max="9999999"/>
+<look type="359" corpse="6068"/>
+<targetchange interval="5000" chance="12"/>
+<strategy attack="100" defense="0"/>
+<flags>
+<flag summonable="1"/>
+<flag attackable="1"/>
+<flag hostile="1"/>
+<flag illusionable="1"/>
+<flag convinceable="0"/>
+<flag pushable="0"/>
+<flag canpushitems="1"/>
+<flag canpushcreatures="0"/>
+<flag targetdistance="1"/>
+<flag staticattack="90"/>
+<flag runonhealth="0"/>
+</flags>
+<attacks>
+<attack name="melee" interval="2000" skill="100" attack="150"/>
+<attack name="death" interval="1000" chance="11" length="8" spread="0" min="-1050" max="-2050">
+<attribute key="areaEffect" value="mortarea"/>
+</attack>
+<attack name="poisoncondition" interval="1000" chance="11" length="8" spread="3" min="-800" max="-1050">
+<attribute key="areaEffect" value="poison"/>
+</attack>
+<attack name="physical" interval="1000" chance="8" radius="6" target ="0" min="-1750" max="-2755">
+<attribute key="areaEffect" value="groundshaker"/>
+</attack>
+<attack name="fire" interval="1000" chance="10" radius="7" target="1" min="-650" max="-2000">
+<attribute key="areaEffect" value="firearea"/>
+</attack>
+</attacks>
+<defenses armor="16" defense="19"/>
+<elements>
+<element physicalPercent="1"/>
+<element holyPercent="1"/>
+<element deathPercent="10"/>
+<element firePercent="-1"/>
+<element energyPercent="-1"/>
+<element icePercent="15"/>
+<element earthPercent="1"/>
+</elements>
+<immunities>
+<immunity invisible="1"/>
+</immunities>
+<voices interval="5000" chance="10">
+<voice sentence="Zrp zrp!"/>
+</voices>
+<loot>
+   <item id="2160" countmax="50" chance="36500"/><!-- crystal coin -->
+   <item id="11249" chance="10"/><!-- cave exclusiva 2h -->
+   <item id="2157" countmax="50" chance1="100000" chancemax="0"/> -- gold nuggets coins
+   <item id="8300" chance="15"/><!--dodge -->
+   <item id="8303" chance="20"/><!-- critical -->
+   <item id="8981" chance="30"/><!-- exp 5x -->
+   <item id="12279" chance="30"/><!-- donate staff -->
+   <item id="1987" chance="100000">
+   <inside>
+   <item id="8980" chance="30"/><!-- donate sword -->
+   <item id="5907" chance="30"/><!-- donate slingshot -->
+   </inside>
+   </item>
+</loot>
+</monster>

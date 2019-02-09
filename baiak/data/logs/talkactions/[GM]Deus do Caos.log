@@ -1,0 +1,4781 @@
+[27/03/2014 17:37:35] /t
+[27/03/2014 17:37:43] /i 2160
+[27/03/2014 17:37:49] /r 100
+[27/03/2014 17:38:24] /r [adm]Rogerio
+[27/03/2014 17:38:35] /ghost
+[27/03/2014 17:38:56] /goto [adm]rogerio
+[27/03/2014 17:39:00] /t
+[27/03/2014 17:39:08] /c [adm]Rogerio
+[27/03/2014 17:39:29] /newtype 206
+[27/03/2014 17:39:31] /newtype 266
+[27/03/2014 17:39:32] /newtype 285
+[27/03/2014 17:39:32] /newtype 266
+[27/03/2014 17:40:42] /ghost
+[27/03/2014 17:41:05] /i 457
+[28/03/2014 12:56:45] /goto dark priest
+[28/03/2014 13:00:59] /owner 
+[28/03/2014 13:05:01] /i baiakzik staff
+[28/03/2014 13:11:38] /ghost
+[28/03/2014 13:21:44] /i 2436
+[28/03/2014 13:22:19] /t
+[28/03/2014 13:22:40] /i 2453
+[28/03/2014 13:22:54] /t
+[28/03/2014 13:50:14] /reload actions
+[28/03/2014 13:53:58] /i super mana potion
+[28/03/2014 13:55:59] /reload potions
+[28/03/2014 13:56:05] /reload actions
+[28/03/2014 13:56:20] /i 2349
+[28/03/2014 13:56:32] /goto dark priest
+[28/03/2014 13:56:46] /goto [Mvip] Dark Priest
+[28/03/2014 13:58:03] /t
+[28/03/2014 14:06:18] /reload items
+[28/03/2014 14:09:56] /reload items
+[28/03/2014 14:10:08] /reload wepons
+[28/03/2014 14:10:12] /reload weapons
+[28/03/2014 14:12:26] /owner [GM]Deus do Caos
+[28/03/2014 14:12:40] /i 9971
+[28/03/2014 14:12:46] /i 9971
+[28/03/2014 14:12:46] /i 9971
+[28/03/2014 14:12:47] /i 9971
+[28/03/2014 14:12:47] /i 9971
+[28/03/2014 14:13:01] /i 9971
+[28/03/2014 14:13:01] /i 9971
+[28/03/2014 14:13:02] /i 9971
+[28/03/2014 14:13:02] /i 9971
+[28/03/2014 14:13:03] /i 9971
+[28/03/2014 14:13:04] /i 9971
+[28/03/2014 14:13:04] /i 9971
+[28/03/2014 14:13:05] /i 9971
+[28/03/2014 14:13:06] /i 9971
+[28/03/2014 14:13:06] /i 9971
+[28/03/2014 14:13:07] /i 9971
+[28/03/2014 14:13:07] /i 9971
+[28/03/2014 14:13:08] /i 9971
+[28/03/2014 14:13:08] /i 9971
+[28/03/2014 14:13:09] /i 9971
+[28/03/2014 14:13:18] /i 9971
+[28/03/2014 14:13:19] /i 9971
+[28/03/2014 14:13:21] /i 9971
+[28/03/2014 14:13:22] /i 9971
+[28/03/2014 14:13:23] /i 9971
+[28/03/2014 14:13:23] /i 9971
+[28/03/2014 14:13:25] /i 9971
+[28/03/2014 14:13:26] /i 9971
+[28/03/2014 14:13:27] /i 9971
+[28/03/2014 14:13:27] /i 9971
+[28/03/2014 14:13:55] /i 9971
+[28/03/2014 14:13:56] /i 9971
+[28/03/2014 14:13:57] /i 9971
+[28/03/2014 14:13:59] /i 9971
+[28/03/2014 14:13:59] /i 9971
+[28/03/2014 14:14:36] /i 2349
+[28/03/2014 14:14:37] /i 2349
+[28/03/2014 14:14:38] /i 2349
+[28/03/2014 14:14:39] /i 2349
+[28/03/2014 14:14:39] /i 2349
+[28/03/2014 14:14:40] /i 2349
+[28/03/2014 14:14:40] /i 2349
+[28/03/2014 14:14:41] /i 2349
+[28/03/2014 14:14:42] /i 2349
+[28/03/2014 14:14:43] /i 2349
+[28/03/2014 14:14:44] /i 2349
+[28/03/2014 14:14:45] /i 2349
+[28/03/2014 14:14:46] /i 2349
+[28/03/2014 14:14:47] /i 2349
+[28/03/2014 14:14:47] /i 2349
+[28/03/2014 14:14:48] /i 2349
+[28/03/2014 14:14:49] /i 2349
+[28/03/2014 14:14:50] /i 2349
+[28/03/2014 14:14:51] /i 2349
+[28/03/2014 14:14:52] /i 2349
+[28/03/2014 14:14:53] /i 2349
+[28/03/2014 14:14:54] /i 2349
+[28/03/2014 14:14:55] /i 2349
+[28/03/2014 14:14:55] /i 2349
+[28/03/2014 14:14:57] /i 2349
+[28/03/2014 14:14:57] /i 2349
+[28/03/2014 14:15:00] /i 2349/i 2349
+[28/03/2014 14:15:01] /i 2349
+[28/03/2014 14:15:02] /i 2349
+[28/03/2014 14:15:03] /i 2349
+[28/03/2014 14:15:05] /i 2349
+[28/03/2014 14:15:06] /i 2349
+[28/03/2014 14:15:07] /i 2349
+[28/03/2014 14:15:08] /i 2349
+[28/03/2014 14:15:09] /i 2349
+[28/03/2014 14:15:11] /i 2349/i 2349
+[28/03/2014 14:15:12] /i 2349
+[28/03/2014 14:15:13] /i 2349
+[28/03/2014 14:15:14] /i 2349
+[28/03/2014 14:15:16] /i 2349/i 2349
+[28/03/2014 14:15:18] /i 2349
+[28/03/2014 14:15:18] /i 2349
+[28/03/2014 14:15:19] /i 2349
+[28/03/2014 14:15:20] /i 2349
+[28/03/2014 14:15:21] /i 2349
+[28/03/2014 14:15:23] /i 2349
+[28/03/2014 14:15:24] /i 2349
+[28/03/2014 14:15:25] /i 2349
+[28/03/2014 14:15:42] /i 9971
+[28/03/2014 14:15:43] /i 9971
+[28/03/2014 14:15:44] /i 9971
+[28/03/2014 14:15:45] /i 9971
+[28/03/2014 14:15:46] /i 9971
+[28/03/2014 14:15:46] /i 9971
+[28/03/2014 14:15:47] /i 9971
+[28/03/2014 14:15:51] /i 9971
+[28/03/2014 14:15:52] /i 9971
+[28/03/2014 14:15:53] /i 9971
+[28/03/2014 14:15:56] /i 9971
+[28/03/2014 14:15:56] /i 9971
+[28/03/2014 14:15:58] /i 9971
+[28/03/2014 14:15:59] /i 9971
+[28/03/2014 14:16:01] /i 9971
+[28/03/2014 14:16:02] /i 9971
+[28/03/2014 14:16:03] /i 9971
+[28/03/2014 14:16:07] /i 9971/i 9971
+[28/03/2014 14:16:09] /i 9971
+[28/03/2014 14:16:10] /i 9971
+[28/03/2014 14:16:11] /i 9971
+[28/03/2014 14:16:12] /i 9971
+[28/03/2014 14:16:14] /i 9971
+[28/03/2014 14:16:14] /i 9971
+[28/03/2014 14:16:33] /i 2349
+[28/03/2014 14:16:34] /i 2349
+[28/03/2014 14:16:35] /i 2349
+[28/03/2014 14:16:35] /i 2349
+[28/03/2014 14:16:36] /i 2349
+[28/03/2014 14:16:37] /i 2349
+[28/03/2014 14:16:38] /i 2349
+[28/03/2014 14:16:40] /i 2349
+[28/03/2014 14:16:45] /i 2349
+[28/03/2014 14:16:45] /i 2349
+[28/03/2014 14:17:08] /i 2349
+[28/03/2014 14:17:19] /ghost
+[28/03/2014 14:17:33] /t meuquebostaquefico
+[28/03/2014 14:17:44] /t meuquebostafico
+[28/03/2014 14:18:34] /i 2349
+[28/03/2014 14:23:59] /ghost
+[28/03/2014 14:24:03] /ghost
+[28/03/2014 14:24:11] /a 2
+[28/03/2014 14:24:15] /m morte
+[28/03/2014 14:24:28] /r
+[28/03/2014 14:24:34] /m dragao de gelo
+[28/03/2014 14:24:41] /r
+[28/03/2014 14:25:26] /goto [Mvip] Dark Priest
+[28/03/2014 14:25:40] /i 2160
+[28/03/2014 14:25:43] /i 2160
+[28/03/2014 14:25:45] /i 2160
+[28/03/2014 14:25:48] /i 2160
+[28/03/2014 14:25:53] /i 8982
+[28/03/2014 14:26:28] /goto [Mvip] Dark Priest
+[28/03/2014 14:26:31] /goto [Mvip] Dark Priest
+[28/03/2014 14:26:32] /goto [Mvip] Dark Priest
+[28/03/2014 14:26:33] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:20] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:22] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:24] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:25] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:28] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:32] /goto [Mvip] Dark Priest
+[28/03/2014 14:27:45] /i 8985
+[28/03/2014 14:27:56] /goto [Mvip] Dark Priest
+[28/03/2014 14:29:32] /i 9971
+[28/03/2014 14:29:46] /a 2
+[28/03/2014 14:30:37] /goto [Mvip] Dark Priest
+[28/03/2014 14:30:58] /goto [Mvip] Dark Priest
+[28/03/2014 14:30:59] /goto [Mvip] Dark Priest
+[28/03/2014 14:30:59] /goto [Mvip] Dark Priest
+[28/03/2014 14:31:00] /goto [Mvip] Dark Priest
+[28/03/2014 14:31:01] /goto [Mvip] Dark Priest
+[28/03/2014 14:31:09] /goto [Mvip] Dark Priest
+[28/03/2014 14:32:33] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:32:59] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:03] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:04] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:05] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:05] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:05] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:06] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:07] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:08] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:08] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:08] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:08] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:09] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:09] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:09] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:09] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:10] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:10] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:19] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:20] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:20] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:20] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:20] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:21] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:21] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:21] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:21] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:21] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:22] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:22] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:22] /addskill [GM]Deus do Caos, magic 
+[28/03/2014 14:33:28] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:40] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:42] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:42] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:43] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:44] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:45] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:45] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:46] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:47] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:47] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:48] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:49] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:50] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:50] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:50] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:50] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:50] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:51] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:51] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:51] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:52] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:33:53] /addskill [GM]Deus do Caos, level
+[28/03/2014 14:34:00] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:01] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:02] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:34:02] /addskill [GM]Deus do Caos, magic
+[28/03/2014 14:39:09] /goto zika memo
+[28/03/2014 14:40:37] /t zika memo
+[28/03/2014 14:40:38] /t
+[28/03/2014 14:42:04] /t zika memo
+[28/03/2014 14:42:05] /t
+[28/03/2014 14:45:50] /bc green se encontrarem bug me avisem pf
+[28/03/2014 14:47:11] /save
+[28/03/2014 14:47:37] /bc green jaja meu amigo vai reinicia o serve para arruma os bugs encontrados uhul
+[28/03/2014 14:47:48] /bc green vai ter uma arena >
+[28/03/2014 14:49:23] /i baiakRs sowrd
+[28/03/2014 14:49:29] /i baiakzik sowrd
+[28/03/2014 14:53:48] /bc green que tive afim de da uma ajuda ae curte ae https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[28/03/2014 14:55:43] /i life rune
+[28/03/2014 14:56:58] /save
+[28/03/2014 14:58:19] /i mana rune
+[28/03/2014 14:58:54] /r 100
+[28/03/2014 14:59:12] /r
+[28/03/2014 14:59:23] /r 99
+[28/03/2014 14:59:28] /i 2276
+[28/03/2014 15:05:00] /bc green reiniciando serve 20 segundos vouta
+[28/03/2014 15:05:02] /save
+[28/03/2014 15:05:07] /bc green salvo
+[28/03/2014 15:09:05] /r
+[28/03/2014 15:09:14] /r
+[28/03/2014 15:11:30] /ghost
+[28/03/2014 15:14:27] /goto [Mvip] zika zika
+[28/03/2014 15:15:19] /bc green curtam la https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[28/03/2014 15:15:21] /t
+[28/03/2014 15:15:33] /bc green vo faze um evento arena gogog
+[28/03/2014 15:15:57] /bc green o primeiro que descubri arena ja vai ganhar 10 lvls
+[28/03/2014 15:18:21] /b primeiro que achar arena ganha 20 lvls
+[28/03/2014 15:19:16] /b primeiro que achar a arena vai ganha 20 lvls
+[28/03/2014 15:20:04] /b [Mvip] Zika Zika achou 
+[28/03/2014 15:20:17] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:18] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:21] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:21] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:22] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:23] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:24] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:25] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:25] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:26] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:27] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:28] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:28] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:29] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:30] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:30] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:31] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:32] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:33] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:33] /addskill [Mvip] Zika Zika, level
+[28/03/2014 15:20:59] /b bye bye to saindo mais tarde to ae
+[28/03/2014 15:21:09] /b bom final de semana se eu n vouta mais :)
+[28/03/2014 17:32:17] /bc red clean em 20 segundos
+[28/03/2014 17:32:36] /bc warning clean em 20 segundos
+[28/03/2014 17:32:52] /bc warning clean em 10 segundos
+[28/03/2014 17:33:04] /bc warning clean
+[28/03/2014 17:33:07] /clean
+[28/03/2014 18:50:35] /bc green curtam ae https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[28/03/2014 18:50:50] /bc green alguem bugado ou com problemas?
+[28/03/2014 18:51:46] /cliport
+[28/03/2014 19:04:14] /ghost
+[28/03/2014 19:04:16] /newtype 266
+[28/03/2014 19:04:16] /newtype 285
+[28/03/2014 19:04:17] /newtype 287
+[28/03/2014 19:04:18] /newtype 290
+[28/03/2014 19:04:18] /newtype 289
+[28/03/2014 19:04:18] /newtype 292
+[28/03/2014 19:04:18] /newtype 293
+[28/03/2014 19:04:19] /newtype 294
+[28/03/2014 19:04:21] /newtype 206
+[28/03/2014 19:04:25] /newtype 264
+[28/03/2014 19:04:26] /newtype 107
+[28/03/2014 19:04:26] /newtype 302 
+[28/03/2014 19:04:28] /newtype 255
+[28/03/2014 19:04:28] /newtype 102
+[28/03/2014 19:04:28] /newtype 110
+[28/03/2014 19:04:29] /newtype 102
+[28/03/2014 19:04:30] /newtype 255
+[28/03/2014 19:04:30] /newtype 110
+[28/03/2014 19:04:31] /newtype 262
+[28/03/2014 19:04:31] /newtype 196
+[28/03/2014 19:04:32] /addskill [GM]Deus do Caos, magic level
+[28/03/2014 19:04:38] /newtype 266
+[28/03/2014 19:04:39] /newtype 285
+[28/03/2014 19:04:40] /newtype 266
+[28/03/2014 19:05:38] /i 2349
+[28/03/2014 19:07:48] /ghost
+[28/03/2014 19:07:52] /goto rolinha
+[28/03/2014 19:08:29] /goto ganja'maker
+[28/03/2014 19:20:57] /t
+[29/03/2014 10:33:43] /ghost
+[29/03/2014 10:33:45] /newtype 266
+[29/03/2014 10:34:43] /goto zika'druidzin
+[29/03/2014 10:35:24] /a 2
+[29/03/2014 10:50:56] /i stone kin
+[29/03/2014 10:51:38] /i 2164
+[29/03/2014 10:52:04] /r
+[29/03/2014 10:52:05] /r
+[29/03/2014 10:52:31] /i stone skin amulet
+[29/03/2014 10:54:27] /r
+[29/03/2014 10:54:31] /i 9751
+[29/03/2014 10:54:43] /r
+[29/03/2014 10:55:42] /goto rolinha
+[29/03/2014 10:55:53] /goto rolinha
+[29/03/2014 10:57:33] /i 2538
+[29/03/2014 11:00:22] /goto rolinha
+[29/03/2014 11:00:25] /goto rolinha
+[29/03/2014 11:00:32] /a 34
+[29/03/2014 11:00:35] /a 34
+[29/03/2014 11:00:37] /a 3
+[29/03/2014 11:02:05] /a 2
+[29/03/2014 11:02:07] /a 4
+[29/03/2014 11:02:40] /ghost
+[29/03/2014 11:08:42] /bc green curtam lá https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 11:12:09] /ghost
+[29/03/2014 11:15:29] /m infernantil
+[29/03/2014 11:15:37] /m infernantil
+[29/03/2014 11:16:17] /goto infernantil
+[29/03/2014 11:18:04] /m infernatil
+[29/03/2014 11:18:25] /mode nopvp
+[29/03/2014 11:18:41] /r
+[29/03/2014 11:18:43] /r
+[29/03/2014 11:18:51] /m infernatil
+[29/03/2014 11:19:02] /c rolinha
+[29/03/2014 11:19:09] /c rolinha
+[29/03/2014 11:20:05] /i vip staff
+[29/03/2014 11:20:31] /i master vip staff
+[29/03/2014 11:21:06] /i 2437
+[29/03/2014 11:21:13] /r
+[29/03/2014 11:22:02] /i 2453
+[29/03/2014 11:24:05] /b curte ae https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 11:24:46] /i 9779
+[29/03/2014 11:28:21] /mode pvp
+[29/03/2014 11:29:57] /b falou pessoal
+[29/03/2014 11:30:01] /b https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 11:48:22] /ghost
+[29/03/2014 11:48:38] /goto kina zika
+[29/03/2014 11:48:44] /a 2
+[29/03/2014 11:48:45] /t
+[29/03/2014 11:53:19] /bc green curtam la https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 12:39:08] /bc green curtam la 
+[29/03/2014 12:39:12] /bc green curte ae https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 12:39:25] /bc green vo manda help
+[29/03/2014 12:40:13] /b https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 14:36:13] /b ae pessoal curte la https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[29/03/2014 14:36:49] /bc green quem quiser tira duvida abre help ae
+[29/03/2014 14:37:46] /ghost
+[29/03/2014 14:37:48] /newtype 266
+[29/03/2014 14:39:07] /i 8905
+[29/03/2014 14:39:20] /i 8905
+[29/03/2014 14:39:21] /i 8905
+[29/03/2014 14:39:21] /i 8905
+[29/03/2014 14:39:22] /i 8905
+[29/03/2014 14:39:24] /i 8905
+[29/03/2014 14:39:24] /i 8905
+[29/03/2014 14:39:27] /i 8905
+[29/03/2014 14:39:28] /i 8905
+[29/03/2014 14:39:29] /i 8905
+[29/03/2014 14:39:30] /i 8905
+[29/03/2014 14:39:30] /i 8905
+[29/03/2014 14:39:31] /i 8905
+[29/03/2014 14:39:32] /i 8905
+[29/03/2014 14:39:33] /i 8905
+[29/03/2014 14:39:34] /i 8905
+[29/03/2014 14:39:35] /i 8905
+[29/03/2014 14:39:36] /i 8905
+[29/03/2014 14:39:36] /i 8905
+[29/03/2014 14:39:37] /i 8905
+[29/03/2014 14:39:39] /i 8905
+[29/03/2014 14:39:40] /i 8905
+[29/03/2014 14:39:40] /i 8905
+[29/03/2014 14:39:41] /i 8905
+[29/03/2014 14:39:42] /i 8905
+[29/03/2014 14:39:43] /i 8905
+[29/03/2014 14:39:46] /i 8905/i 8905
+[29/03/2014 14:39:46] /i 8905
+[29/03/2014 14:39:47] /i 8905
+[29/03/2014 14:39:48] /i 8905
+[29/03/2014 14:39:49] /i 8905
+[29/03/2014 14:39:52] /i 8905/i 8905
+[29/03/2014 14:39:53] /i 8905
+[29/03/2014 14:39:53] /i 8905
+[29/03/2014 14:39:54] /i 8905
+[29/03/2014 14:39:56] /i 8905
+[29/03/2014 14:39:57] /i 8905
+[29/03/2014 14:39:58] /i 8905
+[29/03/2014 14:39:58] /i 8905
+[29/03/2014 14:39:59] /i 8905
+[29/03/2014 14:40:00] /i 8905
+[29/03/2014 14:40:01] /i 8905
+[29/03/2014 14:40:01] /i 8905
+[29/03/2014 14:40:03] /i 8905
+[29/03/2014 14:40:04] /i 8905
+[29/03/2014 14:40:05] /i 8905
+[29/03/2014 14:40:06] /i 8905
+[29/03/2014 14:40:08] /i 8905
+[29/03/2014 14:40:10] /i 8905
+[29/03/2014 14:40:10] /i 8905
+[29/03/2014 14:40:11] /i 8905
+[29/03/2014 14:40:12] /i 8905
+[29/03/2014 14:40:13] /i 8905
+[29/03/2014 14:40:14] /i 8905
+[29/03/2014 14:40:15] /i 8905
+[29/03/2014 14:40:16] /i 8905
+[29/03/2014 14:40:17] /i 8905
+[29/03/2014 14:40:18] /i 8905
+[29/03/2014 14:40:19] /i 8905
+[29/03/2014 14:41:08] /bc green pessoal chatu n conversa com o adm
+[29/03/2014 14:41:14] /bc :)
+[29/03/2014 14:41:28] /bc :(
+[29/03/2014 14:41:39] /bc green chatus :(
+[29/03/2014 14:50:39] /i 2164
+[29/03/2014 14:50:52] /i 2167
+[29/03/2014 16:16:00] /a 4
+[29/03/2014 16:16:20] /i 7763
+[29/03/2014 16:16:25] /r
+[29/03/2014 16:16:31] /a 9
+[29/03/2014 16:17:56] /newtype 285
+[29/03/2014 16:17:57] /newtype 266
+[29/03/2014 16:17:58] /newtype 266
+[29/03/2014 16:17:58] /newtype 285
+[29/03/2014 16:17:59] /newtype 287
+[29/03/2014 16:17:59] /newtype 290
+[29/03/2014 16:17:59] /newtype 289
+[29/03/2014 16:17:59] /newtype 292
+[29/03/2014 16:17:59] /newtype 293
+[29/03/2014 16:18:00] /newtype 294
+[29/03/2014 16:18:00] /newtype 206
+[29/03/2014 16:18:00] /newtype 264
+[29/03/2014 16:18:00] /newtype 294
+[29/03/2014 16:18:00] /newtype 293
+[29/03/2014 16:18:00] /newtype 292
+[29/03/2014 16:18:01] /newtype 289
+[29/03/2014 16:18:01] /newtype 290
+[29/03/2014 16:18:01] /newtype 289
+[29/03/2014 16:18:02] /newtype 285
+[29/03/2014 16:18:03] /newtype 266
+[29/03/2014 16:19:56] /goto mago brutinho
+[29/03/2014 16:19:59] /a 2
+[29/03/2014 16:20:06] /c mago brutinho
+[29/03/2014 16:20:17] /m rat
+[29/03/2014 16:20:19] /a 2
+[29/03/2014 16:30:00] /newtype 266
+[29/03/2014 16:30:12] /a 10
+[29/03/2014 16:30:31] /a 2
+[29/03/2014 16:31:22] /a 22
+[29/03/2014 16:31:30] /a 7
+[29/03/2014 16:32:34] /t
+[29/03/2014 21:25:13] /newtype 285
+[29/03/2014 21:25:13] /newtype 266
+[29/03/2014 21:25:36] /ghost
+[29/03/2014 21:29:18] /save
+[29/03/2014 21:37:08] /bc green  https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334 curtam ae
+[29/03/2014 21:38:25] /goto chargaa
+[29/03/2014 21:38:33] /goto charaa
+[29/03/2014 21:39:00] /t
+[29/03/2014 21:39:06] /goto charaa
+[29/03/2014 21:39:15] /ghost
+[29/03/2014 21:39:47] /c narguile
+[29/03/2014 21:39:59] /r
+[29/03/2014 21:41:14] /c gandalf dos pampa
+[29/03/2014 21:41:21] /c narguile
+[29/03/2014 21:44:09] /b geral arena print
+[29/03/2014 21:44:33] /b geral aki arena
+[29/03/2014 21:45:02] /b geral arena
+[29/03/2014 21:45:19] /c [adm]Rogerio
+[29/03/2014 21:46:16] /b geral arena
+[29/03/2014 21:46:22] /bc green geral arena
+[29/03/2014 21:46:37] /c yukina
+[29/03/2014 21:46:46] /b vem geral arena ae
+[29/03/2014 21:46:58] /b depois do print vo invoca montros
+[29/03/2014 21:47:05] /b vem geral ae
+[29/03/2014 21:49:37] /mode nonpvp
+[29/03/2014 21:49:42] /mode nopvp
+[29/03/2014 21:49:53] /b geral frente templo vo invoca infernatil
+[29/03/2014 21:50:20] /b vo invoca infernatil frete tempo
+[29/03/2014 21:50:35] /m infernatil
+[29/03/2014 21:50:40] /b nao lurem 
+[29/03/2014 21:51:09] /m infernatil
+[29/03/2014 21:51:26] /b vem 
+[29/03/2014 21:51:34] /b ai geral
+[29/03/2014 21:51:43] /m infernatil
+[29/03/2014 21:51:51] /m infernatil
+[29/03/2014 21:51:59] /m infernatil
+[29/03/2014 21:52:18] /m infernatil
+[29/03/2014 21:52:35] /m infernatil
+[29/03/2014 21:52:51] /m infernatil
+[29/03/2014 21:53:06] /m infernatil
+[29/03/2014 21:53:19] /m infernatil/m infernatil
+[29/03/2014 21:53:24] /m infernatil
+[29/03/2014 21:53:36] /b n lurem krl
+[29/03/2014 21:53:41] /b vouta templo
+[29/03/2014 21:54:04] /b quem lura vo da ba ok?
+[29/03/2014 21:54:21] /m infernatil
+[29/03/2014 21:54:33] /m infernatil
+[29/03/2014 21:54:35] /m infernatil
+[29/03/2014 21:54:37] /m infernatil
+[29/03/2014 21:54:56] /m infernatil
+[29/03/2014 21:55:07] /m infernatil
+[29/03/2014 21:55:15] /r
+[29/03/2014 21:55:22] /m infernatil
+[29/03/2014 21:55:26] /m infernatil
+[29/03/2014 21:55:43] /b vo da clean em 10 segundos
+[29/03/2014 21:55:48] /b 2
+[29/03/2014 21:55:51] /clean
+[29/03/2014 21:55:55] /clean
+[29/03/2014 21:56:04] /b save
+[29/03/2014 21:56:08] /save
+[29/03/2014 21:57:37] /m dracola
+[29/03/2014 21:57:51] /m rat
+[29/03/2014 21:57:54] /m rat
+[29/03/2014 21:58:02] /m rat
+[29/03/2014 21:58:11] /m rat
+[29/03/2014 21:58:20] /m rat
+[29/03/2014 21:58:52] /b pvp on
+[29/03/2014 21:58:56] /mode pvp
+[29/03/2014 22:00:06] /i 2453
+[29/03/2014 22:00:44] /i 2453
+[29/03/2014 22:00:55] /t rulles
+[29/03/2014 22:00:59] /a 2
+[29/03/2014 22:02:09] /b pessoal vo coloca tri exp mais o serve vai cai daki a pouco por 1 minutin
+[29/03/2014 22:02:20] /r
+[29/03/2014 22:03:36] /b quem quer triple exp fala help e quem n quer tbm plx
+[29/03/2014 22:06:19] /goto Shyriu Poinx 
+[29/03/2014 22:07:39] /goto Shyriu Poinx 
+[29/03/2014 22:07:41] /t
+[29/03/2014 22:08:36] /goto Shyriu Poinx 
+[29/03/2014 22:10:59] /m behemoth
+[29/03/2014 22:11:12] /m grim reaper
+[29/03/2014 22:11:23] /save
+[29/03/2014 22:11:46] /b flws saindo jaja serve desliga e liga dinovo
+[30/03/2014 09:37:58] /newtype 266
+[30/03/2014 09:38:34] /ghost
+[30/03/2014 09:40:18] /goto [Mvip] Mago Brutinho
+[30/03/2014 09:48:01] /addskill [Mvip] Mago Brutinho, stamina
+[30/03/2014 09:49:02] /addskill [Mvip] Mago Brutinho, stamina
+[30/03/2014 09:49:03] /addskill [Mvip] Mago Brutinho, stamina
+[30/03/2014 09:49:11] /addskill [Mvip] Mago Brutinho, stamina
+[30/03/2014 09:49:15] /addskill [Mvip] Mago Brutinho, stamina
+[30/03/2014 09:49:58] /b eae pessoal to help
+[30/03/2014 09:51:59] /i wand of corruption
+[30/03/2014 09:52:32] /i Wand of Corruption
+[30/03/2014 09:53:17] /m morte
+[30/03/2014 09:53:20] /m mortw
+[30/03/2014 09:53:23] /m morte
+[30/03/2014 09:53:28] /m morte
+[30/03/2014 09:53:31] /m morte
+[30/03/2014 09:53:33] /m morte
+[30/03/2014 09:53:36] /m morte
+[30/03/2014 09:53:38] /m morte
+[30/03/2014 09:53:41] /m morte
+[30/03/2014 09:53:44] /m morte
+[30/03/2014 09:53:46] /m morte 
+[30/03/2014 09:53:49] /m morte
+[30/03/2014 09:53:52] /m morte
+[30/03/2014 09:55:53] /i snake sceptre
+[30/03/2014 09:56:22] /i Snake Sceptre
+[30/03/2014 09:57:51] /i shimmer wand 
+[30/03/2014 09:58:19] /i 2433
+[30/03/2014 09:59:32] /i 2453
+[30/03/2014 09:59:37] /r
+[30/03/2014 09:59:39] /r
+[30/03/2014 09:59:42] /i 2433
+[30/03/2014 10:00:06] /ghost
+[30/03/2014 10:00:07] /newtype 266
+[30/03/2014 10:00:18] /r
+[30/03/2014 10:00:45] /i 8921
+[30/03/2014 10:01:34] /r
+[30/03/2014 10:02:46] /i 3961
+[30/03/2014 10:03:51] /i 7410
+[30/03/2014 12:28:47] /newtype 266
+[30/03/2014 12:29:26] /b geral 
+[30/03/2014 12:29:36] /b geral templo vo ajuda upa geral lvl 8 templo
+[30/03/2014 12:30:10] /b geral templo
+[30/03/2014 12:52:22] /i 2160
+[30/03/2014 12:52:25] /i 2160
+[30/03/2014 12:54:24] /b valeu jaja vouto pessoal
+[30/03/2014 13:31:46] /ghost
+[30/03/2014 15:33:57] /b vo da um save .
+[30/03/2014 15:34:01] /save
+[30/03/2014 15:36:57] /ghost
+[30/03/2014 15:37:06] /newtype 266
+[30/03/2014 15:37:27] /b pessoal vo da save
+[30/03/2014 15:37:43] /b serve vai cai novo bixo e nova cave
+[30/03/2014 15:37:47] /save
+[30/03/2014 15:37:53] /b caiu
+[30/03/2014 15:38:44] /newtype 266
+[30/03/2014 15:40:41] /b editei bixo errado
+[30/03/2014 15:41:04] /b vem templo vo ve se pelomenos um bixo foi per
+[30/03/2014 15:41:15] /m Baiak elemental
+[30/03/2014 15:41:21] /m earth elemental
+[30/03/2014 15:41:33] /b sem lura 
+[30/03/2014 15:41:45] /b sem lura
+[30/03/2014 15:41:50] /b vo te da ban
+[30/03/2014 15:42:12] /mode nopvp
+[30/03/2014 15:42:18] /m earth elemental
+[30/03/2014 15:44:41] /b n lura krl
+[30/03/2014 15:44:46] /b quem lura vo da ban
+[30/03/2014 15:45:24] /goto druidinha
+[30/03/2014 15:45:34] /goto druidinha
+[30/03/2014 15:45:48] /goto [Mvip] druidinha
+[30/03/2014 15:45:51] /r
+[30/03/2014 15:45:53] /t
+[30/03/2014 15:50:51] /save
+[30/03/2014 15:50:55] /b rapidim
+[30/03/2014 15:51:03] /b serve vai cai e volta vo da um save
+[30/03/2014 15:51:08] /save
+[30/03/2014 15:51:53] /newtype 266
+[30/03/2014 15:53:23] /b ae cave deu certo
+[30/03/2014 15:53:42] /b vamos ver o  bixo de evento
+[30/03/2014 15:53:57] /b geral frente templo
+[30/03/2014 15:54:26] /m earth elemental
+[30/03/2014 15:54:27] /bc warning apareceu um baiak elemental na cidade derrotem ele
+[30/03/2014 15:54:37] /mode nopvp
+[30/03/2014 15:55:03] /bc warning apareceu um baiak elemental na cidade derrotem ele
+[30/03/2014 15:55:12] /b sem lura
+[30/03/2014 15:55:35] /bc warning apareceu um baiak elemental na cidade derrotem ele
+[30/03/2014 15:58:20] /b pvp on em 10 segundos
+[30/03/2014 15:58:30] /mode pvp
+[30/03/2014 15:59:47] /b cave de abominavel vip 8
+[30/03/2014 16:00:03] /b talves continue fazendo mais caves se nimguem reclama ne
+[30/03/2014 16:02:43] /i 8918
+[30/03/2014 16:03:28] /a 2
+[30/03/2014 16:03:35] /a 10
+[30/03/2014 16:03:58] /b duvidas help
+[30/03/2014 16:07:58] /c [adm]Rogerio
+[30/03/2014 16:11:09] /b pessoal nao tem power abuse aki viu
+[30/03/2014 16:11:14] /b :)
+[30/03/2014 16:11:53] /b se quiserem  baiak elemental pede help
+[30/03/2014 16:12:02] /b utimo de hj
+[30/03/2014 16:12:19] /b preciso  de 5 sim pra fazer 
+[30/03/2014 16:12:37] /b nimguem falou sim ainda no help 
+[30/03/2014 16:13:08] /attr set attack 3000000
+[30/03/2014 16:13:25] /c [mvip] yukina
+[30/03/2014 16:13:48] /c [mvip] yukina
+[30/03/2014 16:14:38] /b preciso que falem sim
+[30/03/2014 16:14:46] /b e so fala "sim" no help
+[30/03/2014 16:15:11] /b se falarem 5 "sim" faço outro baiak elemental
+[30/03/2014 16:16:04] /b falem sim se quiserem outro baiak elemental
+[30/03/2014 16:16:14] /b 2 sim ate agora
+[30/03/2014 16:16:18] /b preciso de 5
+[30/03/2014 16:16:31] /goto [mvip] yukina
+[30/03/2014 16:16:34] /save
+[30/03/2014 16:16:38] /m bazir
+[30/03/2014 16:16:57] /r
+[30/03/2014 16:17:06] /b 3 sim
+[30/03/2014 16:17:16] /b mais dois sim eu faço
+[30/03/2014 16:17:25] /b 4
+[30/03/2014 16:17:32] /b mais 1 sim
+[30/03/2014 16:17:49] /b geral frente templo
+[30/03/2014 16:18:09] /b geral frente templo vo fazer evento  Baiak Elemental
+[30/03/2014 16:18:32] /b so faço ele quando tiver 7 pessoas aki na frente
+[30/03/2014 16:18:40] /b 4 no momento
+[30/03/2014 16:19:10] /b vem geral aki na frente ele da muita exp
+[30/03/2014 16:19:14] /b 100 milhoes
+[30/03/2014 16:19:28] /b quem lura do da ban 2 dias heuhueuhe
+[30/03/2014 16:19:38] /i 9945
+[30/03/2014 16:19:43] /i 9945
+[30/03/2014 16:19:52] /i 9945
+[30/03/2014 16:19:58] /i 9945
+[30/03/2014 16:20:07] /b vem geral aki na frente
+[30/03/2014 16:20:32] /bc warning 1 minuto para invasao
+[30/03/2014 16:21:04] /bc warning 30 segundos para invasao
+[30/03/2014 16:21:47] /bc warning 10 segundos para invasao
+[30/03/2014 16:21:56] /mode nopvp
+[30/03/2014 16:22:15] /m earth elemental
+[30/03/2014 16:22:17] /bc warning Baiak Elemental Invadiu a cidade matem ele
+[30/03/2014 16:22:31] /t [Mvip] yukina
+[30/03/2014 16:23:08] /bc warning Baiak Elemental Invadiu a cidade matem ele
+[30/03/2014 16:24:06] /bc warning Baiak Elemental Invadiu a cidade matem ele
+[30/03/2014 16:24:35] /bc warning eu voutarei e ainda matarei todos voces infelizes Buahahahaha!
+[30/03/2014 16:24:49] /r
+[30/03/2014 16:24:50] /r
+[30/03/2014 16:24:54] /r
+[30/03/2014 16:24:57] /r
+[30/03/2014 16:25:01] /r
+[30/03/2014 16:26:04] /b pessoal se alcançar 30 curtidas faço mais um https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:26:54] /i 1324
+[30/03/2014 16:27:01] /r
+[30/03/2014 16:27:03] /r
+[30/03/2014 16:28:37] /goto [mvip] zika zika
+[30/03/2014 16:29:04] /t
+[30/03/2014 16:30:04] /b se chegar 30 curtidas face faço baiak elemental evento https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:31:16] /goto pakitoh
+[30/03/2014 16:31:49] /t
+[30/03/2014 16:32:19] /mode pvp
+[30/03/2014 16:33:30] /b se chegar 20 curtidas face coloca baiak elemental evento aki cidade https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:34:17] /goto pakitoh
+[30/03/2014 16:34:55] /a 
+[30/03/2014 16:37:07] /goto pakitoh
+[30/03/2014 16:37:42] /i 7423
+[30/03/2014 16:37:48] /i 7424
+[30/03/2014 16:40:35] /goto pakitoh
+[30/03/2014 16:40:57] /r
+[30/03/2014 16:40:59] /r
+[30/03/2014 16:41:04] /r
+[30/03/2014 16:41:09] /r
+[30/03/2014 16:41:13] /r
+[30/03/2014 16:41:14] /r
+[30/03/2014 16:41:17] /r
+[30/03/2014 16:41:22] /r
+[30/03/2014 16:41:25] /r
+[30/03/2014 16:41:42] /r
+[30/03/2014 16:41:43] /r
+[30/03/2014 16:42:03] /a 3
+[30/03/2014 16:42:11] /r
+[30/03/2014 16:42:13] /r
+[30/03/2014 16:42:47] /r
+[30/03/2014 16:42:52] /r
+[30/03/2014 16:43:26] /c pakito
+[30/03/2014 16:43:28] /c pakitoh
+[30/03/2014 16:43:37] /c pakitoh
+[30/03/2014 16:44:06] /t
+[30/03/2014 16:45:11] /b se chega 20 curtidas faço boss https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:48:11] /b mais uma curtida sumovo baiak elemental
+[30/03/2014 16:48:14] /b https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:49:37] /newtype 266
+[30/03/2014 16:50:12] /b curtam ae https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:50:22] /b mais uma curtida envoco boss https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[30/03/2014 16:50:41] /b abram help link ta lá
+[30/03/2014 16:52:13] /t andre druid
+[30/03/2014 16:53:13] /b jaja invasao
+[30/03/2014 16:53:29] /bc warning no pvp em 1 minuto
+[30/03/2014 16:53:54] /bc warning invasao começará em 1minuto e 30 segundos bem exato kk
+[30/03/2014 16:55:03] /mode nopvp
+[30/03/2014 16:55:19] /bc warning Baiak elemental esta invadindo a cidade
+[30/03/2014 16:55:41] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 16:55:46] /m earth elemental
+[30/03/2014 16:55:55] /i 9945
+[30/03/2014 16:55:58] /i 9945
+[30/03/2014 16:56:07] /i 9945
+[30/03/2014 16:56:10] /i 9945
+[30/03/2014 16:56:26] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 16:59:31] /i 9945
+[30/03/2014 16:59:34] /i 9945
+[30/03/2014 16:59:39] /i 9945
+[30/03/2014 16:59:42] /i 9945
+[30/03/2014 16:59:48] /mode nopvp
+[30/03/2014 17:00:09] /bc warning invasao começará em 1 minuto
+[30/03/2014 17:00:16] /b sorry ae
+[30/03/2014 17:00:26] /bc warning vo começa sa poha
+[30/03/2014 17:00:32] /m earth elemental
+[30/03/2014 17:00:33] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:01:16] /save
+[30/03/2014 17:01:39] /b jaja vai cai o serve para eles ligarem anti nuker 
+[30/03/2014 17:01:47] /b mais vai espera matar o boss
+[30/03/2014 17:02:13] /bc warning kkkkkkkkkk mataram o errado buahahahaha
+[30/03/2014 17:02:14] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:02:22] /m earth elemental
+[30/03/2014 17:02:32] /save
+[30/03/2014 17:02:39] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:03:17] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:03:29] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:03:41] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:03:56] /save
+[30/03/2014 17:04:09] /m bazir
+[30/03/2014 17:04:33] /save
+[30/03/2014 17:09:06] /newtype 285
+[30/03/2014 17:09:08] /newtype 285
+[30/03/2014 17:09:08] /newtype 266
+[30/03/2014 17:13:02] /m abominavel
+[30/03/2014 17:13:04] /m yeti
+[30/03/2014 17:13:17] /r
+[30/03/2014 17:13:21] /r
+[30/03/2014 17:13:23] /r
+[30/03/2014 17:13:25] /r
+[30/03/2014 17:13:56] /c pakitog
+[30/03/2014 17:14:05] /c pakitoh
+[30/03/2014 17:15:34] /t pakitoh
+[30/03/2014 17:16:12] /t
+[30/03/2014 17:16:15] /goto pakitoh
+[30/03/2014 17:18:10] /save
+[30/03/2014 17:24:49] /goto pakitoh
+[30/03/2014 17:30:03] /goto pakitoh
+[30/03/2014 17:30:14] /t
+[30/03/2014 17:30:55] /goto pakitoh
+[30/03/2014 17:31:27] /goto pakitoh
+[30/03/2014 17:33:35] /goto pakitoh
+[30/03/2014 17:33:41] /r
+[30/03/2014 17:33:46] /r
+[30/03/2014 17:34:31] /r
+[30/03/2014 17:36:03] /b pessoal fiz uma arena na agua
+[30/03/2014 17:36:24] /b quando serve cai e pq to coloquado ela
+[30/03/2014 17:36:28] /save
+[30/03/2014 17:37:30] /goto [mvip] Yukina
+[30/03/2014 17:37:46] /c narguile
+[30/03/2014 17:39:16] /t
+[30/03/2014 17:40:38] /i 2160
+[30/03/2014 17:40:40] /i 2160
+[30/03/2014 17:45:05] /i 2164
+[30/03/2014 17:45:18] /i 2197
+[30/03/2014 17:45:25] /i 2197
+[30/03/2014 17:45:32] /i 2164
+[30/03/2014 17:50:46] /r
+[30/03/2014 17:50:50] /kick eu
+[30/03/2014 17:50:55] /newtype 302 
+[30/03/2014 17:50:55] /newtype 302 
+[30/03/2014 17:50:55] /newtype 302 
+[30/03/2014 17:50:56] /newtype 302 
+[30/03/2014 17:50:56] /newtype 302 
+[30/03/2014 17:50:57] /newtype 107
+[30/03/2014 17:50:58] /newtype 266
+[30/03/2014 17:51:00] /goto [Mvip] Mago Brutinho
+[30/03/2014 17:51:01] /bc warning Baiak elemental invadiu a cidade matem ele
+[30/03/2014 17:51:04] /t
+[30/03/2014 17:51:16] /b mintira kkkkkkkkkkkk
+[30/03/2014 17:55:54] /b serve vai cai
+[30/03/2014 17:55:57] /save
+[30/03/2014 17:56:25] /goto [Mvip] Yukina
+[30/03/2014 17:56:43] /goto pakitoh
+[30/03/2014 17:57:25] /t pakitoh
+[30/03/2014 17:57:27] /t
+[30/03/2014 17:57:46] /goto pakitoh
+[30/03/2014 17:58:18] /a 2
+[30/03/2014 17:58:43] /b quem descobriu o brasil respode help quem erra vai preso
+[30/03/2014 17:59:16] /i 7890
+[30/03/2014 17:59:23] /b kkkk
+[30/03/2014 17:59:27] /b acerto fio
+[30/03/2014 17:59:49] /addskill [Mvip] Yukina, level/addskill [Mvip] Yukina, level
+[30/03/2014 17:59:50] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:50] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:51] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:51] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:52] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:53] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:53] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:54] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:54] /addskill [Mvip] Yukina, level
+[30/03/2014 17:59:55] /addskill [Mvip] Yukina, level
+[30/03/2014 18:00:15] /t
+[30/03/2014 18:00:43] /t pakitoh
+[30/03/2014 18:04:39] /b pessoal vo sai mais tarde vouto
+[30/03/2014 18:04:42] /save
+[30/03/2014 18:04:46] /b save e clean
+[30/03/2014 18:04:49] /clean
+[30/03/2014 18:04:58] /goto 
+[30/03/2014 18:05:08] /goto
+[30/03/2014 18:05:19] /goto narguile
+[30/03/2014 18:05:55] /r
+[30/03/2014 18:07:48] /goto account manager's
+[30/03/2014 18:08:22] /t
+[30/03/2014 18:08:42] /i 9971
+[30/03/2014 18:08:44] /i 9971
+[30/03/2014 18:08:59] /t account manager's
+[30/03/2014 18:09:14] /t account manager's
+[30/03/2014 18:10:18] /m bazir
+[30/03/2014 18:10:21] /m bazir
+[30/03/2014 18:10:25] /m bazir
+[30/03/2014 18:10:52] /r
+[30/03/2014 18:11:02] /r
+[30/03/2014 18:11:24] /r
+[30/03/2014 18:11:27] /r
+[30/03/2014 18:13:26] /b save
+[30/03/2014 18:13:28] /save
+[30/03/2014 18:13:35] /b vsf serve lixo
+[30/03/2014 18:13:43] /b tudo cheio de bregets chao
+[30/03/2014 18:13:49] /b clean
+[30/03/2014 18:14:13] /clean
+[30/03/2014 18:14:28] /r
+[30/03/2014 18:14:30] /t
+[30/03/2014 18:14:58] /i bat decoration
+[30/03/2014 18:15:13] /i 6492
+[30/03/2014 18:15:19] /i 6492
+[30/03/2014 18:15:21] /i 6492
+[30/03/2014 18:15:28] /i 6492
+[30/03/2014 18:15:29] /i 6492
+[30/03/2014 18:15:39] /a 2
+[30/03/2014 18:16:03] /b vo estuda negada
+[30/03/2014 18:18:28] /i cabeça de demon
+[30/03/2014 18:19:11] /t
+[30/03/2014 18:19:37] /b flws vo estuda falou
+[30/03/2014 20:26:17] /a 2
+[30/03/2014 20:27:52] /r
+[30/03/2014 20:28:02] /r
+[30/03/2014 20:28:09] /r
+[30/03/2014 20:28:15] /r
+[30/03/2014 20:28:40] /r
+[30/03/2014 20:28:44] /r
+[30/03/2014 20:28:51] /mc
+[30/03/2014 20:31:10] /newtype 266
+[30/03/2014 20:39:28] /i 2276
+[30/03/2014 20:39:39] /r 100
+[30/03/2014 20:41:37] /newtype 266
+[30/03/2014 20:42:37] /r
+[30/03/2014 20:43:40] /bc green pessoal n tem ninguem editado :)
+[30/03/2014 20:45:34] /bc green quem e mvip fala /b oi
+[30/03/2014 20:46:05] /bc green alguem pd fala /b oi ae
+[30/03/2014 20:46:12] /bc green os mvip fala ae
+[30/03/2014 20:47:18] /i 7417
+[30/03/2014 20:47:51] /b os mvip fala /b oi aeeeeeeeee
+[30/03/2014 20:48:19] /r
+[30/03/2014 20:48:57] /goto [mvip] zika zika
+[30/03/2014 20:49:55] /t
+[30/03/2014 20:50:04] /i 2504
+[30/03/2014 20:50:14] /r
+[30/03/2014 20:50:31] /r
+[30/03/2014 20:50:32] /r
+[30/03/2014 20:50:33] /r
+[30/03/2014 20:50:42] /i 8926
+[30/03/2014 20:51:22] /goto mamus mela
+[30/03/2014 20:51:42] /a 10
+[30/03/2014 20:51:44] /a 10
+[30/03/2014 20:51:46] /a 2
+[30/03/2014 20:51:52] /c mamus mela
+[30/03/2014 20:52:15] /c [mvip]pakitoh
+[30/03/2014 20:52:26] /c [mvip pakitoh
+[30/03/2014 20:52:35] /c [mvip] pakitoh
+[30/03/2014 20:52:48] /up
+[30/03/2014 20:52:54] /a 66
+[30/03/2014 20:53:06] /c mamus meça
+[30/03/2014 20:53:10] /c mamus mela
+[30/03/2014 20:53:26] /c [mvip] pakitoh
+[30/03/2014 20:54:56] /bc green ai quem e mvip fala ./vip oi
+[30/03/2014 20:55:03] /t
+[30/03/2014 20:56:10] /b flws
+[30/03/2014 21:13:32] /b serve vai reinicia vouta em 30 segundos
+[30/03/2014 21:13:38] /b n vai reseta viu
+[30/03/2014 21:13:41] /b save
+[30/03/2014 21:13:43] /save
+[30/03/2014 21:13:51] /save
+[31/03/2014 14:18:31] /ghost
+[31/03/2014 14:18:31] /newtype 266
+[31/03/2014 14:19:41] /b pessoal ae se chergar 25 players on  faço evento :)
+[31/03/2014 14:19:46] /bc :)
+[31/03/2014 15:31:20] /ghost
+[31/03/2014 15:31:20] /newtype 266
+[31/03/2014 15:31:37] /promote jeff
+[31/03/2014 15:31:42] /promote jeff
+[31/03/2014 15:35:57] /addskill jeff,level
+[31/03/2014 15:35:58] /addskill jeff,level
+[31/03/2014 15:35:59] /addskill jeff,level
+[31/03/2014 15:35:59] /addskill jeff,level
+[31/03/2014 15:36:00] /addskill jeff,level
+[31/03/2014 15:36:00] /addskill jeff,level
+[31/03/2014 15:36:01] /addskill jeff,level
+[31/03/2014 15:36:01] /addskill jeff,level
+[31/03/2014 15:36:02] /addskill jeff,level
+[31/03/2014 15:36:03] /addskill jeff,level
+[31/03/2014 15:36:03] /addskill jeff,level
+[31/03/2014 15:36:04] /addskill jeff,level
+[31/03/2014 15:36:04] /addskill jeff,level
+[31/03/2014 15:36:05] /addskill jeff,level
+[31/03/2014 15:36:05] /addskill jeff,level
+[31/03/2014 15:36:06] /addskill jeff,level
+[31/03/2014 15:36:25] /addskill jeff,level
+[31/03/2014 15:36:25] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:26] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:27] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:28] /addskill jeff,level
+[31/03/2014 15:36:31] /addskill jeff,level
+[31/03/2014 15:36:31] /addskill jeff,level
+[31/03/2014 15:36:31] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:32] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:33] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:34] /addskill jeff,level
+[31/03/2014 15:36:37] /addskill jeff,level
+[31/03/2014 15:36:37] /addskill jeff,level
+[31/03/2014 15:36:37] /addskill jeff,level
+[31/03/2014 15:36:37] /addskill jeff,level
+[31/03/2014 15:36:37] /addskill jeff,level
+[31/03/2014 15:36:38] /addskill jeff,level
+[31/03/2014 15:36:38] /addskill jeff,level
+[31/03/2014 15:36:39] /addskill jeff,level
+[31/03/2014 15:36:39] /addskill jeff,level
+[31/03/2014 15:36:39] /addskill jeff,level
+[31/03/2014 15:36:39] /addskill jeff,level
+[31/03/2014 15:36:39] /addskill jeff,level
+[31/03/2014 15:36:40] /addskill jeff,level
+[31/03/2014 15:36:41] /addskill jeff,level
+[31/03/2014 15:36:41] /addskill jeff,level
+[31/03/2014 15:36:41] /addskill jeff,level
+[31/03/2014 15:36:41] /addskill jeff,level
+[31/03/2014 15:36:42] /addskill jeff,level
+[31/03/2014 15:36:42] /addskill jeff,level
+[31/03/2014 15:36:42] /addskill jeff,level
+[31/03/2014 15:36:43] /addskill jeff,level
+[31/03/2014 15:36:43] /addskill jeff,level
+[31/03/2014 15:36:43] /addskill jeff,level
+[31/03/2014 15:36:43] /addskill jeff,level
+[31/03/2014 15:36:43] /addskill jeff,level
+[31/03/2014 15:36:44] /addskill jeff,level
+[31/03/2014 15:36:44] /addskill jeff,level
+[31/03/2014 15:36:44] /addskill jeff,level
+[31/03/2014 15:36:44] /addskill jeff,level
+[31/03/2014 15:36:44] /addskill jeff,level
+[31/03/2014 15:36:45] /addskill jeff,level
+[31/03/2014 15:36:48] /addskill jeff,level
+[31/03/2014 15:36:48] /addskill jeff,level
+[31/03/2014 15:36:49] /addskill jeff,level
+[31/03/2014 15:36:49] /addskill jeff,level
+[31/03/2014 15:36:49] /addskill jeff,level
+[31/03/2014 15:36:50] /addskill jeff,level
+[31/03/2014 15:36:50] /addskill jeff,level
+[31/03/2014 15:38:20] /b anuncia ot novo tutor jeff 
+[31/03/2014 15:38:36] /b penguntas help
+[31/03/2014 15:39:06] /newtype 266
+[31/03/2014 15:39:14] /newtype 266 jeff
+[31/03/2014 15:39:17] /newtype 255
+[31/03/2014 15:39:23] /newtype 266, jeff
+[31/03/2014 15:39:26] /newtype 266
+[31/03/2014 15:39:38] /goto [Mvip] Mago Brutinho
+[31/03/2014 15:39:39] /newtype 266
+[31/03/2014 15:39:39] /newtype 285
+[31/03/2014 15:39:40] /newtype 287
+[31/03/2014 15:39:40] /newtype 290
+[31/03/2014 15:39:40] /newtype 287
+[31/03/2014 15:39:41] /newtype 285
+[31/03/2014 15:39:41] /newtype 287
+[31/03/2014 15:39:42] /newtype 290
+[31/03/2014 15:39:42] /newtype 289
+[31/03/2014 15:39:42] /newtype 289
+[31/03/2014 15:39:42] /newtype 292
+[31/03/2014 15:39:42] /newtype 293
+[31/03/2014 15:39:43] /newtype 294
+[31/03/2014 15:39:43] /newtype 206
+[31/03/2014 15:39:43] /newtype 264
+[31/03/2014 15:39:44] /newtype 107
+[31/03/2014 15:39:44] /newtype 302 
+[31/03/2014 15:39:46] /newtype 266
+[31/03/2014 15:39:47] /newtype 285
+[31/03/2014 15:39:47] /newtype 287
+[31/03/2014 15:39:48] /newtype 290
+[31/03/2014 15:39:48] /newtype 289
+[31/03/2014 15:39:49] /newtype 292
+[31/03/2014 15:39:49] /newtype 289
+[31/03/2014 15:39:52] /newtype 266
+[31/03/2014 15:40:16] /i 2474
+[31/03/2014 15:40:23] /i 2503
+[31/03/2014 15:40:28] /i 2504
+[31/03/2014 15:40:35] /i 2641
+[31/03/2014 15:40:49] /a 6
+[31/03/2014 15:41:02] /i 7424
+[31/03/2014 15:41:16] /a 10
+[31/03/2014 15:41:19] /c jeff
+[31/03/2014 15:41:33] /i 8919
+[31/03/2014 15:41:47] /i 8918
+[31/03/2014 15:42:17] /i 8926
+[31/03/2014 15:42:25] /c jeff
+[31/03/2014 15:42:36] /r
+[31/03/2014 15:42:40] /t
+[31/03/2014 15:42:42] /t jeff
+[31/03/2014 15:42:49] /i 2474
+[31/03/2014 15:42:54] /i 2503
+[31/03/2014 15:42:58] /i 2504
+[31/03/2014 15:43:03] /i 2641
+[31/03/2014 15:43:17] /i spider sliks
+[31/03/2014 15:44:01] /i 5879
+[31/03/2014 15:44:11] /i 6492
+[31/03/2014 15:44:18] /i 6492
+[31/03/2014 15:44:22] /i 6492
+[31/03/2014 15:44:25] /i 6492
+[31/03/2014 15:44:31] /i 6492
+[31/03/2014 15:46:14] /attr set attack 1550
+[31/03/2014 15:46:57] /attr set attack 9555
+[31/03/2014 15:47:05] /i 2160
+[31/03/2014 15:48:07] /kick jeff
+[31/03/2014 15:49:28] /kick jeff
+[31/03/2014 15:51:03] /i 8098
+[31/03/2014 15:51:26] /i 8098
+[31/03/2014 15:51:43] /i 8098
+[31/03/2014 15:51:51] /i 8098
+[31/03/2014 15:52:50] /i 8926
+[31/03/2014 15:53:15] /attr set attack 65555
+[31/03/2014 15:55:11] /attr set attack 95555
+[31/03/2014 15:55:32] /r
+[31/03/2014 15:55:36] /i 8905
+[31/03/2014 15:55:46] /attr set attack 95555
+[31/03/2014 15:55:59] /attr set attack 95555
+[31/03/2014 15:56:55] /r
+[31/03/2014 15:57:01] /r
+[31/03/2014 15:58:25] /newtype 266
+[31/03/2014 15:58:42] /a 6
+[31/03/2014 15:59:07] /i saco de pancada
+[31/03/2014 15:59:10] /kick jeff
+[31/03/2014 15:59:21] /m saco de pancada
+[31/03/2014 15:59:35] /a 10
+[31/03/2014 16:00:11] /save
+[31/03/2014 16:02:34] /a 3
+[31/03/2014 16:02:40] /a 2
+[31/03/2014 16:02:45] /bc warning Baiak elemental invadiu a cidade matem ele
+[31/03/2014 16:04:21] /b ei da opniao help coloca power abuse ou n
+[31/03/2014 16:04:35] /a 10
+[31/03/2014 16:05:32] /c jeff
+[31/03/2014 16:05:39] /c [Tutor]jeff
+[31/03/2014 16:05:54] /i 8985
+[31/03/2014 16:06:11] /goto [Tutor]Jeff
+[31/03/2014 16:07:15] /i 8926
+[31/03/2014 16:07:31] /attr set attack 9555
+[31/03/2014 16:08:19] /t
+[31/03/2014 16:11:10] /c [Tutor]jeff
+[31/03/2014 16:14:45] /i 2641
+[31/03/2014 16:15:14] /goto jefferson
+[31/03/2014 16:15:31] /i 2503
+[31/03/2014 16:15:36] /i 7424
+[31/03/2014 16:16:44] /t
+[31/03/2014 16:23:01] /newtype 266
+[31/03/2014 16:23:19] /i 8985
+[31/03/2014 18:46:06] /b tutor que ta rank vai decer rlx pessoal
+[31/03/2014 18:46:11] /newtype 266
+[31/03/2014 18:46:20] /b 25 players online evento
+[31/03/2014 18:53:10] /i baiakrs axe
+[31/03/2014 18:53:41] /attr set attack 6555
+[31/03/2014 18:54:36] /i 2641
+[31/03/2014 18:54:39] /i 2504
+[31/03/2014 18:54:46] /i 2503
+[31/03/2014 18:54:52] /i 2474
+[31/03/2014 18:56:01] /b o tutor vai ser lvl 100 viu
+[31/03/2014 18:56:46] /i baiak rs shield
+[31/03/2014 18:56:56] /i 2538
+[31/03/2014 19:06:36] /goto [Mvip] Narguile 
+[31/03/2014 19:06:59] /t [Mvip] Narguile 
+[31/03/2014 19:07:00] /t
+[31/03/2014 19:11:03] /a 2
+[31/03/2014 19:11:26] /attr set attack 95555
+[31/03/2014 19:11:37] /attr set defense 1200
+[31/03/2014 19:11:57] /attr set defense 1200
+[31/03/2014 19:11:58] /attr set defense 1200
+[31/03/2014 19:12:00] /attr set defense 1200
+[31/03/2014 19:12:20] /attr set armor 1200
+[31/03/2014 19:12:24] /attr set armor 1200
+[31/03/2014 19:12:26] /attr set armor 1200
+[31/03/2014 19:21:39] /attr set attack 350
+[31/03/2014 19:22:26] /i 1536
+[31/03/2014 19:22:46] /a 3
+[31/03/2014 19:22:50] /a 3
+[31/03/2014 19:22:54] /c druid loko
+[31/03/2014 19:22:56] /a 2
+[31/03/2014 19:23:16] /r
+[31/03/2014 19:23:19] /r
+[31/03/2014 19:23:21] /r
+[31/03/2014 19:23:22] /r
+[31/03/2014 19:23:25] /a 1
+[31/03/2014 19:23:28] /a 2
+[31/03/2014 19:23:31] /a 1
+[31/03/2014 19:23:33] /r
+[31/03/2014 19:23:35] /r
+[31/03/2014 19:23:38] /a 1
+[31/03/2014 19:23:41] /r
+[31/03/2014 19:23:43] /r
+[31/03/2014 19:23:44] /r
+[31/03/2014 19:23:46] /r
+[31/03/2014 19:23:57] /a 3
+[31/03/2014 19:24:03] /b pessoal 20 players online evento
+[31/03/2014 19:27:01] /kick kininha fodinha
+[31/03/2014 19:27:29] /i 9971
+[31/03/2014 19:27:39] /c kininha fodinha
+[31/03/2014 19:28:17] /b 20 players evento
+[31/03/2014 19:29:27] /i 9971
+[31/03/2014 19:30:46] /i 9945
+[31/03/2014 19:30:48] /i 9945
+[31/03/2014 19:30:55] /i 9945
+[31/03/2014 19:30:58] /i 9945
+[31/03/2014 19:31:09] /mode nopvp
+[31/03/2014 19:32:07] /bc warning jaja começa evento gerla templo
+[31/03/2014 19:32:20] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:30] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:44] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:46] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:48] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:49] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:51] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:32:52] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:33:23] /bc warning jaja começa evento gerla templo 
+[31/03/2014 19:33:41] /goto [Mvip] Mago Brutinho
+[31/03/2014 19:33:43] /bc warning Baiak elemental invadiu a cidade matem ele
+[31/03/2014 19:33:49] /m baiak elemental
+[31/03/2014 19:33:55] /m earth elemental
+[31/03/2014 19:33:59] /bc warning Baiak elemental invadiu a cidade matem ele
+[31/03/2014 19:34:22] /bc warning Baiak elemental invadiu a cidade matem ele
+[31/03/2014 19:34:30] /newtype 266
+[31/03/2014 19:34:36] /m abominavel
+[31/03/2014 19:34:40] /m yeti
+[31/03/2014 19:34:42] /m yeti
+[31/03/2014 19:38:32] /save
+[31/03/2014 19:38:44] /m yeti
+[31/03/2014 19:38:44] /m yeti
+[31/03/2014 19:38:45] /m yeti
+[31/03/2014 19:38:46] /m yeti
+[31/03/2014 19:38:47] /m yeti
+[31/03/2014 19:38:47] /m yeti
+[31/03/2014 19:38:48] /m yeti
+[31/03/2014 19:38:59] /r
+[31/03/2014 19:39:02] /r
+[31/03/2014 19:39:04] /r
+[31/03/2014 19:39:09] /r
+[31/03/2014 19:39:12] /r
+[31/03/2014 19:39:17] /mode pvp
+[31/03/2014 19:39:21] /clean
+[31/03/2014 19:39:24] /save
+[31/03/2014 19:39:34] /r
+[31/03/2014 19:39:46] /b flws ate mais
+[31/03/2014 22:29:06] /b falou boa noite ae flws
+[01/04/2014 14:26:51] /ghost
+[01/04/2014 14:34:26] /r
+[01/04/2014 16:21:09] /goto [mvip] narguile
+[01/04/2014 16:21:39] /ghost
+[01/04/2014 16:21:41] /newtype 266
+[01/04/2014 16:22:43] /b quem ta on fala oi no help 
+[01/04/2014 16:22:56] /b quem ta ae fala oi no help ou toma ban
+[01/04/2014 16:23:24] /b anunciem o serve
+[01/04/2014 16:23:52] /b vo fazer caves novas amanha  e itens novos
+[01/04/2014 16:24:01] /b curtem no face se puder https://www.facebook.com/pages/BaiakRs-Tibia/1435909966649334
+[01/04/2014 16:24:30] /m abominavel
+[01/04/2014 16:24:33] /m yeti
+[01/04/2014 16:24:41] /m yeti
+[01/04/2014 16:26:38] /m yeti
+[01/04/2014 16:27:23] /i 7414
+[01/04/2014 16:27:28] /r
+[01/04/2014 16:29:00] /goto [mvip] druid loko
+[01/04/2014 16:29:25] /t
+[01/04/2014 16:30:03] /goto [mvip] druid loko
+[01/04/2014 16:37:42] /owner test gm
+[01/04/2014 16:38:41] /m yeti
+[01/04/2014 16:38:43] /m yeti
+[01/04/2014 16:38:52] /t
+[01/04/2014 16:38:55] /b flws
+[01/04/2014 16:38:59] /m yeti
+[02/04/2014 15:23:15] /ghost
+[02/04/2014 15:25:03] /goto [mvip] narguile
+[02/04/2014 15:25:25] /ghost
+[02/04/2014 15:25:25] /newtype 266
+[02/04/2014 15:25:52] /b quem ta ae fala um hey no help
+[02/04/2014 15:27:17] /b quem ta ae fala um hey no help ou toma ban
+[02/04/2014 15:27:34] /b brinks
+[02/04/2014 15:27:59] /mc
+[02/04/2014 15:29:24] /b 30 players on evento invasao
+[02/04/2014 15:30:38] /i master vip staff
+[02/04/2014 15:31:00] /i 2183
+[02/04/2014 15:31:07] /i 2183
+[02/04/2014 15:31:37] /i 8922
+[02/04/2014 15:32:27] /i vip wand
+[02/04/2014 15:32:35] /i vip star
+[02/04/2014 15:33:02] /r 100
+[02/04/2014 15:33:07] /r
+[02/04/2014 15:33:11] /r
+[02/04/2014 15:33:35] /i vip staff
+[02/04/2014 15:33:42] /i vip wand
+[02/04/2014 15:34:54] /i 2183
+[02/04/2014 15:35:33] /b 30 players evento invasao
+[02/04/2014 15:35:44] /goto rolinha
+[02/04/2014 15:41:47] /i ice riper
+[02/04/2014 15:43:48] /goto rolinha
+[02/04/2014 15:47:14] /r
+[02/04/2014 15:47:17] /r
+[02/04/2014 15:47:19] /r
+[02/04/2014 15:47:21] /r
+[02/04/2014 15:47:25] /r
+[02/04/2014 15:47:49] /newtype 266
+[02/04/2014 15:47:51] /newtype 285
+[02/04/2014 15:47:52] /newtype 287
+[02/04/2014 15:47:53] /newtype 290
+[02/04/2014 15:47:53] /newtype 289
+[02/04/2014 15:47:54] /newtype 292
+[02/04/2014 15:47:54] /newtype 293
+[02/04/2014 15:47:55] /newtype 294
+[02/04/2014 15:47:55] /newtype 206
+[02/04/2014 15:47:55] /newtype 264
+[02/04/2014 15:47:56] /newtype 107
+[02/04/2014 15:47:56] /newtype 302 
+[02/04/2014 15:47:58] /newtype 255
+[02/04/2014 15:47:59] /newtype 102
+[02/04/2014 15:47:59] /newtype 110
+[02/04/2014 15:48:00] /newtype 262
+[02/04/2014 15:48:00] /newtype 196
+[02/04/2014 15:48:29] /m bugzin
+[02/04/2014 15:48:54] /r
+[02/04/2014 15:49:03] /m rat
+[02/04/2014 15:49:21] /r
+[02/04/2014 15:57:03] /goto rolinha
+[03/04/2014 19:17:39] /ghost
+[03/04/2014 19:17:52] /a 2
+[03/04/2014 19:18:04] /r
+[03/04/2014 19:18:08] /a 2
+[03/04/2014 19:18:14] /goto obi
+[03/04/2014 19:18:20] /r
+[03/04/2014 19:18:23] /r
+[03/04/2014 19:18:26] /goto obi
+[03/04/2014 19:18:33] /goto obi
+[03/04/2014 19:18:35] /t
+[04/04/2014 13:36:45] /mc
+[04/04/2014 13:37:25] /goto obi
+[04/04/2014 15:33:48] /ghost
+[04/04/2014 15:34:14] /c pally off mort
+[04/04/2014 15:35:39] /i 997
+[04/04/2014 15:35:46] /i 9971
+[04/04/2014 15:35:50] /r
+[04/04/2014 15:35:52] /r
+[04/04/2014 15:36:31] /i 457
+[04/04/2014 15:36:42] /r
+[04/04/2014 15:36:44] /r
+[04/04/2014 15:36:45] /r
+[04/04/2014 15:36:47] /r
+[04/04/2014 15:36:49] /r
+[04/04/2014 15:36:53] /i 9971
+[04/04/2014 15:38:49] /addskill pally bugado, level
+[04/04/2014 15:38:50] /addskill pally bugado, level
+[04/04/2014 15:38:51] /addskill pally bugado, level
+[04/04/2014 15:38:51] /addskill pally bugado, level
+[04/04/2014 15:38:52] /addskill pally bugado, level
+[04/04/2014 15:38:53] /addskill pally bugado, level
+[04/04/2014 15:38:55] /addskill pally bugado, level
+[04/04/2014 15:40:08] /m yeti
+[04/04/2014 15:47:01] /goto [Mvip] diabolik angel
+[04/04/2014 15:47:17] /goto pally bugado
+[04/04/2014 15:47:58] /i great mana potion
+[04/04/2014 15:48:12] /r 99
+[04/04/2014 15:51:16] /m yeti
+[04/04/2014 15:52:29] /m abominavel
+[04/04/2014 15:52:33] /m yeti
+[04/04/2014 15:52:51] /r
+[04/04/2014 15:56:00] /i 7620
+[04/04/2014 15:56:07] /goto pally bugado
+[04/04/2014 15:56:16] /t
+[04/04/2014 15:56:24] /r
+[04/04/2014 15:56:26] /r 10
+[04/04/2014 15:56:28] /r 10
+[04/04/2014 16:05:00] /b 25 ON VO FAZE EVENTO INVASAO
+[04/04/2014 16:05:17] /b 25 ON VO FAZE EVENTO INVASAO
+[04/04/2014 16:07:02] /c [adm]Rogerio
+[04/04/2014 16:07:15] /c [adm]rogerio
+[04/04/2014 16:07:50] /newtype 266
+[04/04/2014 16:07:51] /newtype 285
+[04/04/2014 16:07:51] /newtype 287
+[04/04/2014 16:07:52] /newtype 290
+[04/04/2014 16:07:53] /newtype 289
+[04/04/2014 16:07:53] /newtype 292
+[04/04/2014 16:07:54] /newtype 293
+[04/04/2014 16:07:54] /newtype 294
+[04/04/2014 16:07:56] /newtype 206
+[04/04/2014 16:07:56] /newtype 264
+[04/04/2014 16:07:57] /newtype 107
+[04/04/2014 16:07:57] /newtype 302 
+[04/04/2014 16:07:59] /newtype 255
+[04/04/2014 16:07:59] /newtype 102
+[04/04/2014 16:08:00] /newtype 110
+[04/04/2014 16:08:00] /newtype 262
+[04/04/2014 16:08:36] /addskill pally bugado, level
+[04/04/2014 16:08:37] /addskill pally bugado, level
+[04/04/2014 16:08:37] /addskill pally bugado, level
+[04/04/2014 16:08:38] /addskill pally bugado, level
+[04/04/2014 16:08:39] /addskill pally bugado, level
+[04/04/2014 16:08:42] /addskill pally bugado, level
+[04/04/2014 16:08:54] /m rat
+[04/04/2014 16:08:57] /m dog
+[04/04/2014 16:09:04] /m rabbit
+[04/04/2014 16:09:09] /b coelho
+[04/04/2014 16:09:13] /m coelho
+[04/04/2014 16:09:36] /m earth elemental
+[04/04/2014 16:09:53] /r
+[04/04/2014 16:10:42] /m bazir
+[04/04/2014 16:11:06] /m infernatil
+[04/04/2014 16:11:58] /m tortoise
+[04/04/2014 16:12:23] /b 250 players online evento invasao
+[04/04/2014 16:12:27] /b ops 15
+[04/04/2014 16:12:32] /b :( 25
+[04/04/2014 16:13:43] /b 25 players on evento
+[04/04/2014 16:14:29] /m tortoise
+[04/04/2014 16:15:28] /r
+[04/04/2014 16:15:33] /r
+[04/04/2014 16:16:46] /b 35 players on 2 eventos
+[04/04/2014 16:16:59] /b 25 players on dois eventos
+[04/04/2014 16:19:02] /t
+[04/04/2014 16:19:11] /b 25 on eventos
+[04/04/2014 16:19:22] /m dourado
+[04/04/2014 16:19:26] /m douradin
+[04/04/2014 16:19:38] /b 25 on dois eventos
+[04/04/2014 16:25:08] /i 7424
+[04/04/2014 16:27:48] /i 8926
+[04/04/2014 16:27:59] /attr set attack 9555
+[04/04/2014 16:36:08] /attr set attack 95555
+[04/04/2014 16:36:37] /a 2
+[04/04/2014 16:47:34] /b invasao arena
+[04/04/2014 16:47:49] /mode nopvp
+[04/04/2014 16:47:51] /m yeti
+[04/04/2014 16:47:52] /m yeti
+[04/04/2014 16:47:57] /r
+[04/04/2014 16:47:59] /m yeti
+[04/04/2014 16:48:00] /m yeti
+[04/04/2014 16:48:01] /m yeti
+[04/04/2014 16:48:01] /m yeti
+[04/04/2014 16:48:02] /m yeti
+[04/04/2014 16:48:07] /m yeti
+[04/04/2014 16:48:08] /m yeti
+[04/04/2014 16:48:09] /m yeti
+[04/04/2014 16:48:09] /m yeti
+[04/04/2014 16:48:10] /m yeti
+[04/04/2014 16:48:11] /m yeti
+[04/04/2014 16:48:12] /m yeti
+[04/04/2014 16:48:17] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:18] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:19] /m yeti
+[04/04/2014 16:48:20] /m yeti
+[04/04/2014 16:48:23] /m yeti
+[04/04/2014 16:48:24] /m yeti
+[04/04/2014 16:48:24] /m yeti
+[04/04/2014 16:48:24] /m yeti
+[04/04/2014 16:48:24] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:25] /m yeti
+[04/04/2014 16:48:26] /m yeti
+[04/04/2014 16:48:26] /m yeti
+[04/04/2014 16:48:26] /m yeti
+[04/04/2014 16:48:27] /m yeti
+[04/04/2014 16:48:27] /m yeti
+[04/04/2014 16:48:27] /m yeti
+[04/04/2014 16:48:27] /m yeti
+[04/04/2014 16:48:27] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:28] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:29] /m yeti
+[04/04/2014 16:48:30] /m yeti
+[04/04/2014 16:48:31] /m yeti
+[04/04/2014 16:48:31] /m yeti
+[04/04/2014 16:48:31] /m yeti
+[04/04/2014 16:48:31] /m yeti
+[04/04/2014 16:48:31] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:32] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:33] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:34] /m yeti
+[04/04/2014 16:48:41] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:42] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:43] /m yeti
+[04/04/2014 16:48:44] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:45] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:46] /m yeti
+[04/04/2014 16:48:47] /m yeti
+[04/04/2014 16:48:47] /m yeti
+[04/04/2014 16:48:47] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:53] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:54] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:55] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:56] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:57] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:48:58] /m yeti
+[04/04/2014 16:49:09] /b invasao arena corram
+[04/04/2014 16:49:14] /b gogo invasao arena
+[04/04/2014 16:49:14] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:15] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:16] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:17] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:18] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:19] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:20] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:21] /m yeti
+[04/04/2014 16:49:24] /a 2
+[04/04/2014 16:49:31] /m yeti
+[04/04/2014 16:49:32] /m yeti
+[04/04/2014 16:49:32] /m yeti
+[04/04/2014 16:49:32] /m yeti
+[04/04/2014 16:49:33] /m yeti
+[04/04/2014 16:49:33] /m yeti
+[04/04/2014 16:49:33] /m yeti
+[04/04/2014 16:49:33] /m yeti
+[04/04/2014 16:49:33] /m yeti
+[04/04/2014 16:49:34] /m yeti
+[04/04/2014 16:49:34] /m yeti
+[04/04/2014 16:49:34] /m yeti
+[04/04/2014 16:49:34] /m yeti
+[04/04/2014 16:49:35] /m yeti
+[04/04/2014 16:49:35] /m yeti
+[04/04/2014 16:49:35] /m yeti
+[04/04/2014 16:49:36] /m yeti
+[04/04/2014 16:49:36] /m yeti
+[04/04/2014 16:49:36] /m yeti
+[04/04/2014 16:49:36] /m yeti
+[04/04/2014 16:49:37] /m yeti
+[04/04/2014 16:49:37] /m yeti
+[04/04/2014 16:49:37] /m yeti
+[04/04/2014 16:49:37] /m yeti
+[04/04/2014 16:49:42] /m yeti
+[04/04/2014 16:49:43] /m yeti
+[04/04/2014 16:49:43] /m yeti
+[04/04/2014 16:49:43] /m yeti
+[04/04/2014 16:49:44] /m yeti
+[04/04/2014 16:49:44] /m yeti
+[04/04/2014 16:49:45] /m yeti
+[04/04/2014 16:49:45] /m yeti
+[04/04/2014 16:49:45] /m yeti
+[04/04/2014 16:49:45] /m yeti
+[04/04/2014 16:49:46] /m yeti
+[04/04/2014 16:49:46] /m yeti
+[04/04/2014 16:49:46] /m yeti
+[04/04/2014 16:49:46] /m yeti
+[04/04/2014 16:49:47] /m yeti
+[04/04/2014 16:49:47] /m yeti
+[04/04/2014 16:49:47] /m yeti
+[04/04/2014 16:49:47] /m yeti
+[04/04/2014 16:49:48] /m yeti
+[04/04/2014 16:49:48] /m yeti
+[04/04/2014 16:49:48] /m yeti
+[04/04/2014 16:49:48] /m yeti
+[04/04/2014 16:49:49] /m yeti
+[04/04/2014 16:49:49] /m yeti
+[04/04/2014 16:49:49] /m yeti
+[04/04/2014 16:49:49] /m yeti
+[04/04/2014 16:49:50] /m yeti
+[04/04/2014 16:49:50] /m yeti
+[04/04/2014 16:49:50] /m yeti
+[04/04/2014 16:49:51] /m yeti
+[04/04/2014 16:49:51] /m yeti
+[04/04/2014 16:49:51] /m yeti
+[04/04/2014 16:49:51] /m yeti
+[04/04/2014 16:49:52] /m yeti
+[04/04/2014 16:49:52] /m yeti
+[04/04/2014 16:49:52] /m yeti
+[04/04/2014 16:49:53] /m yeti
+[04/04/2014 16:49:53] /m yeti
+[04/04/2014 16:49:53] /m yeti
+[04/04/2014 16:49:53] /m yeti
+[04/04/2014 16:49:54] /m yeti
+[04/04/2014 16:49:54] /m yeti
+[04/04/2014 16:49:54] /m yeti
+[04/04/2014 16:49:54] /m yeti
+[04/04/2014 16:49:55] /m yeti
+[04/04/2014 16:49:55] /m yeti
+[04/04/2014 16:49:56] /m yeti
+[04/04/2014 16:49:56] /m yeti
+[04/04/2014 16:49:56] /m yeti
+[04/04/2014 16:50:03] /m yeti
+[04/04/2014 16:50:03] /m yeti
+[04/04/2014 16:50:04] /m yeti
+[04/04/2014 16:50:04] /m yeti
+[04/04/2014 16:50:04] /m yeti
+[04/04/2014 16:50:04] /m yeti
+[04/04/2014 16:50:05] /m yeti
+[04/04/2014 16:50:05] /m yeti
+[04/04/2014 16:50:05] /m yeti
+[04/04/2014 16:50:05] /m yeti
+[04/04/2014 16:50:05] /m yeti
+[04/04/2014 16:50:06] /m yeti
+[04/04/2014 16:50:06] /m yeti
+[04/04/2014 16:50:06] /m yeti
+[04/04/2014 16:50:06] /m yeti
+[04/04/2014 16:50:07] /m yeti
+[04/04/2014 16:50:07] /m yeti
+[04/04/2014 16:50:07] /m yeti
+[04/04/2014 16:50:07] /m yeti
+[04/04/2014 16:50:18] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:19] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:20] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:21] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:22] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:23] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:24] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:25] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:26] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:27] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:28] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:29] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:30] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:31] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:32] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:33] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:34] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:35] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:36] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:37] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:38] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:39] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:40] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:41] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:42] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:50:43] /m morte
+[04/04/2014 16:51:48] /b vo da um clean ae
+[04/04/2014 16:51:55] /clean
+[04/04/2014 16:51:57] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:58] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:51:59] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:00] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:01] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:02] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:52:03] /m morte
+[04/04/2014 16:53:06] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:07] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:08] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:09] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:10] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:11] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:12] /m morte
+[04/04/2014 16:53:19] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:20] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:21] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:22] /m morte
+[04/04/2014 16:53:23] /m morte
+[04/04/2014 16:53:23] /m morte
+[04/04/2014 16:53:23] /m morte
+[04/04/2014 16:53:23] /m morte
+[04/04/2014 16:53:23] /m morte
+[04/04/2014 16:53:27] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:28] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:29] /m morte
+[04/04/2014 16:53:30] /m morte
+[04/04/2014 16:53:30] /m morte
+[04/04/2014 16:53:30] /m morte
+[04/04/2014 16:53:30] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:39] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:40] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:41] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:42] /m morte
+[04/04/2014 16:53:43] /m morte
+[04/04/2014 16:53:44] /m morte
+[04/04/2014 16:53:47] /m morte
+[04/04/2014 16:53:50] /m yeti
+[04/04/2014 16:53:50] /m yeti
+[04/04/2014 16:53:50] /m yeti
+[04/04/2014 16:53:50] /m yeti
+[04/04/2014 16:53:50] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:51] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:52] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:53] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:54] /m yeti
+[04/04/2014 16:53:55] /m yeti
+[04/04/2014 16:53:55] /m yeti
+[04/04/2014 16:53:55] /m yeti
+[04/04/2014 16:54:04] /m morte
+[04/04/2014 16:54:04] /m morte
+[04/04/2014 16:54:04] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:05] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:06] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:07] /m morte
+[04/04/2014 16:54:15] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:16] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:17] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:18] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:19] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:20] /m yeti
+[04/04/2014 16:54:30] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:31] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:32] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:33] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:34] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:35] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:36] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:37] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:38] /m morte
+[04/04/2014 16:54:44] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:45] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:46] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:47] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:48] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:49] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:50] /m yeti
+[04/04/2014 16:54:56] /m morte
+[04/04/2014 16:54:56] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:57] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:58] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:54:59] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:00] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:01] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:04] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:05] /m morte
+[04/04/2014 16:55:06] /m morte
+[04/04/2014 16:55:06] /m morte
+[04/04/2014 16:55:06] /m morte
+[04/04/2014 16:55:06] /m morte
+[04/04/2014 16:55:06] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:07] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:08] /m morte
+[04/04/2014 16:55:09] /m morte
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:14] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:15] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:16] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:17] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:18] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:19] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:20] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:21] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:22] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:23] /m yeti
+[04/04/2014 16:55:30] /b vo da clean jaja
+[04/04/2014 16:55:46] /clean
+[04/04/2014 16:55:51] /clean
+[04/04/2014 16:55:59] /c espawna
+[04/04/2014 16:56:19] /clean
+[04/04/2014 16:56:51] /m earth elemental
+[04/04/2014 16:57:02] /r
+[04/04/2014 16:58:50] /m bazir
+[04/04/2014 16:58:50] /m bazir
+[04/04/2014 16:58:51] /m bazir
+[04/04/2014 16:58:51] /m bazir
+[04/04/2014 16:58:51] /m bazir
+[04/04/2014 16:58:51] /m bazir
+[04/04/2014 16:58:59] /m bazir
+[04/04/2014 16:58:59] /m bazir
+[04/04/2014 16:58:59] /m bazir
+[04/04/2014 16:58:59] /m bazir
+[04/04/2014 16:59:00] /m bazir
+[04/04/2014 16:59:00] /m bazir
+[04/04/2014 17:00:45] /r
+[04/04/2014 17:03:09] /m bugzin
+[04/04/2014 17:03:14] /m bugzin
+[04/04/2014 17:04:03] /t
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:16] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:04:17] /m bazir
+[04/04/2014 17:06:02] /t
+[04/04/2014 17:06:04] /clean
+[04/04/2014 17:06:18] /mode pvp
+[04/04/2014 17:06:51] /mode pvpenforced
+[04/04/2014 17:09:44] /mode nopvp
+[04/04/2014 17:10:15] /mode pvp
+[04/04/2014 19:14:29] /ghost
+[04/04/2014 19:14:39] /ghost
+[04/04/2014 19:14:40] /newtype 266
+[04/04/2014 19:15:29] /b 25 players on evento
+[04/04/2014 19:15:59] /m rat
+[04/04/2014 19:26:26] /i 2197
+[05/04/2014 19:49:06] /goto hall de cerveja
+[05/04/2014 19:49:12] /goto halls de cerveja
+[05/04/2014 19:50:02] /up
+[05/04/2014 19:50:06] /c halls de cerveja
+[05/04/2014 19:50:21] /a 10
+[05/04/2014 19:50:32] /c halls de cerveja
+[05/04/2014 19:53:01] /ghost
+[05/04/2014 19:55:20] /goto halls de cerveja
+[05/04/2014 19:55:35] /t
+[05/04/2014 19:56:13] /i 2893
+[05/04/2014 19:56:16] /r
+[05/04/2014 19:56:24] /i 7893
+[05/04/2014 19:57:12] /i 7695
+[05/04/2014 19:57:19] /i 7895
+[05/04/2014 19:57:24] /r
+[05/04/2014 19:57:52] /i 8884
+[05/04/2014 19:58:12] /i 7902
+[05/04/2014 20:04:36] /i 8904
+[05/04/2014 20:06:49] /i 8902
+[05/04/2014 20:07:30] /i 8903
+[12/04/2014 11:04:54] /r 100
+[12/04/2014 11:04:59] /r
+[12/04/2014 11:05:28] /i baiakzik axe
+[12/04/2014 11:05:37] /i 892
+[12/04/2014 11:05:43] /i 8926
+[12/04/2014 11:05:45] /r
+[12/04/2014 11:05:47] /r
+[12/04/2014 11:06:35] /attr set attack 1500
+[12/04/2014 11:06:44] /attr set attack 1500
+[12/04/2014 11:09:04] /attr set attack 5000
+[12/04/2014 11:11:15] /attr set attack 8000
+[12/04/2014 11:14:14] /r
+[12/04/2014 11:14:16] /goto obi
+[12/04/2014 11:14:19] /r
+[12/04/2014 11:14:21] /r
+[12/04/2014 11:14:24] /r
+[12/04/2014 11:14:26] /t
+[12/04/2014 11:14:30] /goto obi
+[12/04/2014 11:16:59] /goto rafinha
+[12/04/2014 11:17:12] /attr sex
+[12/04/2014 11:17:19] /r
+[12/04/2014 11:17:28] /ghost
+[12/04/2014 11:17:31] /kick rafinha
+[12/04/2014 11:17:39] /attr sex 2
+[12/04/2014 11:18:00] /attr set sex
+[12/04/2014 11:18:06] /attr set sex 2
+[12/04/2014 11:18:11] /attr set 3
+[12/04/2014 11:18:25] /attr sex 3
+[12/04/2014 11:18:30] /kick rafinha
+[12/04/2014 11:19:25] /attr sex
+[12/04/2014 11:19:39] /raid
+[12/04/2014 11:20:34] /config mapaautor
+[12/04/2014 11:21:01] /config mapAuthor
+[12/04/2014 11:21:24] /config whiteSkullTime
+[12/04/2014 11:22:35] /t
+[12/04/2014 11:28:08] /t rafinha
+[12/04/2014 11:28:11] /t
+[12/04/2014 11:29:01] /wp
+[12/04/2014 11:31:06] /c rafinha
+[12/04/2014 11:31:45] /promote rafinha
+[12/04/2014 11:31:53] /promote rafinha
+[12/04/2014 11:32:31] /demote rafinha
+[12/04/2014 11:32:41] /demote rafinha
+[12/04/2014 11:40:44] /attr set attack 7500
+[12/04/2014 11:41:22] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:29] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:30] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:31] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:36] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:37] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:38] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:39] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:39] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:39] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:39] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:39] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:40] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:44] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:45] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:46] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:47] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:47] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:47] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:47] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:47] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:48] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:41:49] /addskill [Gm]Deus do caos, distance
+[12/04/2014 11:42:06] /c rafinha
+[12/04/2014 11:42:41] /attr set attack 7500
+[12/04/2014 11:55:55] /save
+[12/04/2014 11:56:10] /b pessoal serve vai cai vouta em 40 segundos
+[12/04/2014 11:56:52] /b jaja cai rlx dei salve
+[12/04/2014 11:56:55] /save
+[12/04/2014 11:56:59] /t rafinha
+[12/04/2014 11:58:28] /r rafinha
+[12/04/2014 11:58:32] /r rafinha
+[12/04/2014 11:58:36] /t rafinha
+[12/04/2014 12:06:56] /b save e o serve vai cai
+[12/04/2014 12:06:59] /save
+[12/04/2014 12:08:45] /i yeti
+[12/04/2014 12:08:49] /m yeti
+[12/04/2014 12:09:01] /m yeti
+[12/04/2014 12:09:17] /goto rafinha
+[12/04/2014 12:10:08] /goto rafinha
+[12/04/2014 12:10:44] /save
+[12/04/2014 12:10:48] /b reiniciando 2 p
+[12/04/2014 12:12:52] /t
+[12/04/2014 12:13:18] /b evento serve editado gogog
+[12/04/2014 12:13:22] /b geral templo
+[12/04/2014 12:14:04] /b geral templo
+[12/04/2014 12:14:37] /b geral templo
+[12/04/2014 12:14:41] /b gogo
+[12/04/2014 12:15:13] /b evento arena quem quiser se puxado fala help
+[12/04/2014 12:15:28] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:29] /i yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:36] /m yeti
+[12/04/2014 12:15:37] /m yeti
+[12/04/2014 12:15:37] /m yeti
+[12/04/2014 12:15:37] /m yeti
+[12/04/2014 12:15:37] /m yeti
+[12/04/2014 12:15:38] /m yeti
+[12/04/2014 12:15:40] /a 2
+[12/04/2014 12:15:41] /m yeti
+[12/04/2014 12:15:42] /m yeti
+[12/04/2014 12:15:42] /m yeti
+[12/04/2014 12:15:43] /m yeti
+[12/04/2014 12:15:43] /m yeti
+[12/04/2014 12:15:44] /m yeti
+[12/04/2014 12:15:44] /m yeti
+[12/04/2014 12:15:44] /m yeti
+[12/04/2014 12:15:45] /m yeti
+[12/04/2014 12:15:45] /m yeti
+[12/04/2014 12:15:46] /m yeti
+[12/04/2014 12:15:46] /m yeti
+[12/04/2014 12:15:46] /m yeti
+[12/04/2014 12:15:47] /m yeti
+[12/04/2014 12:15:47] /m yeti
+[12/04/2014 12:15:47] /m yeti
+[12/04/2014 12:15:48] /m yeti
+[12/04/2014 12:15:48] /m yeti
+[12/04/2014 12:15:49] /m yeti
+[12/04/2014 12:15:49] /m yeti
+[12/04/2014 12:15:50] /m yeti
+[12/04/2014 12:15:50] /m yeti
+[12/04/2014 12:15:50] /m yeti
+[12/04/2014 12:15:51] /m yeti
+[12/04/2014 12:15:51] /m yeti
+[12/04/2014 12:15:51] /m yeti
+[12/04/2014 12:15:51] /m yeti
+[12/04/2014 12:15:51] /m yeti
+[12/04/2014 12:15:52] /m yeti
+[12/04/2014 12:15:52] /m yeti
+[12/04/2014 12:15:52] /m yeti
+[12/04/2014 12:15:52] /m yeti
+[12/04/2014 12:15:52] /m yeti
+[12/04/2014 12:15:53] /m yeti
+[12/04/2014 12:15:53] /m yeti
+[12/04/2014 12:15:53] /m yeti
+[12/04/2014 12:15:55] /m yeti
+[12/04/2014 12:15:55] /m yeti
+[12/04/2014 12:15:55] /m yeti
+[12/04/2014 12:15:55] /m yeti
+[12/04/2014 12:15:55] /m yeti
+[12/04/2014 12:15:56] /m yeti
+[12/04/2014 12:15:56] /m yeti
+[12/04/2014 12:15:56] /m yeti
+[12/04/2014 12:15:56] /m yeti
+[12/04/2014 12:15:56] /m yeti
+[12/04/2014 12:15:57] /m yeti
+[12/04/2014 12:15:57] /m yeti
+[12/04/2014 12:15:57] /m yeti
+[12/04/2014 12:15:57] /m yeti
+[12/04/2014 12:15:57] /m yeti
+[12/04/2014 12:15:58] /m yeti
+[12/04/2014 12:15:58] /m yeti
+[12/04/2014 12:15:58] /m yeti
+[12/04/2014 12:15:58] /m yeti
+[12/04/2014 12:15:59] /m yeti
+[12/04/2014 12:15:59] /m yeti
+[12/04/2014 12:15:59] /m yeti
+[12/04/2014 12:15:59] /m yeti
+[12/04/2014 12:15:59] /m yeti
+[12/04/2014 12:16:00] /m yeti
+[12/04/2014 12:16:00] /m yeti
+[12/04/2014 12:16:00] /m yeti
+[12/04/2014 12:16:00] /m yeti
+[12/04/2014 12:16:00] /m yeti
+[12/04/2014 12:16:01] /m yeti
+[12/04/2014 12:16:01] /m yeti
+[12/04/2014 12:16:01] /m yeti
+[12/04/2014 12:16:01] /m yeti
+[12/04/2014 12:16:01] /m yeti
+[12/04/2014 12:16:02] /m yeti
+[12/04/2014 12:16:02] /m yeti
+[12/04/2014 12:16:02] /m yeti
+[12/04/2014 12:16:02] /m yeti
+[12/04/2014 12:16:03] /m yeti
+[12/04/2014 12:16:03] /m yeti
+[12/04/2014 12:16:03] /m yeti
+[12/04/2014 12:16:07] /m yeti
+[12/04/2014 12:16:07] /m yeti
+[12/04/2014 12:16:08] /m yeti
+[12/04/2014 12:16:08] /m yeti
+[12/04/2014 12:16:08] /m yeti
+[12/04/2014 12:16:14] /t
+[12/04/2014 12:16:27] /c lord'bechker
+[12/04/2014 12:16:34] /b geral arena gogo
+[12/04/2014 12:16:39] /c rafinha
+[12/04/2014 12:16:53] /b sem se mata plx
+[12/04/2014 12:16:56] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:57] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:58] /m yeti
+[12/04/2014 12:16:59] /m yeti
+[12/04/2014 12:16:59] /m yeti
+[12/04/2014 12:16:59] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:17:00] /m yeti
+[12/04/2014 12:25:25] /reload monters
+[12/04/2014 12:25:35] /reload monster
+[12/04/2014 12:26:08] /c [mvip] goiaba
+[12/04/2014 12:26:20] /save
+[12/04/2014 12:27:22] /m morte
+[12/04/2014 12:27:36] /m morte
+[12/04/2014 12:28:46] /c [mvip] goiaba
+[12/04/2014 12:29:24] /ghost
+[12/04/2014 12:31:18] /ghost
+[12/04/2014 12:31:55] /goto [mvip] goiaba

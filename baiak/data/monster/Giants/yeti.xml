@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dark Yeti" nameDescription="a Dark Yeti" race="blood" experience="45460" speed="270" manacost="0">
+	<health now="150050" max="150050"/>
+	<look type="110" corpse="6038"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="0"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" skill="200" attack="250"/>
+		<attack name="manadrain" interval="1000" chance="7" range="7" min="-200" max="-1500">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="poff"/>
+		</attack>
+		<attack name="drunk" interval="1000" chance="7" range="7">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="strength" interval="1000" chance="9" range="7">
+			<attribute key="shootEffect" value="largerock"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="13" radius="8" target="0" min="-600" max="-700">
+			<attribute key="areaEffect" value="bluebubble"/>
+		</attack>
+		<attack name="manadrain" interval="1000" chance="10" radius="8" target="0" min="-500" max="-700">
+			<attribute key="areaEffect" value="greenshimmer"/>
+		</attack>
+		<attack name="speed" interval="1000" chance="12" radius="6" target="0" speedchange="-1900" duration="60000">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="strength" interval="1000" chance="8" radius="5" target="0">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="fire" interval="1000" chance="34" range="7" radius="7" target="1" min="-100" max="-150">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="15" length="8" spread="0" min="-500" max="-850">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="ice" interval="1500" chance="18" target="1" radius="4" min="500" max="-10280">
+			<attribute key="areaEffect" value="icearea"/>
+			<attribute key="shootEffect" value="smallice"/>
+		</attack>
+		<attack name="ice" interval="1500" chance="22" radius="3" target="0" min="2000" max="-5000">
+			<attribute key="areaEffect" value="icetornado"/>
+		</attack>
+	</attacks>
+                <defenses armor="160" defense="160">
+		<defense name="healing" interval="1000" chance="15" min="5000" max="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="1000" chance="25" min="2000" max="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="1000" chance="8" speedchange="1901" duration="5000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+		<defense name="invisible" interval="1000" chance="4" duration="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="invisible" interval="1000" chance="17" duration="2000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="100"/>
+		<element earthPercent="-20"/>
+	</elements>
+	<immunities>
+	<immunity invisible="1"/>
+	</immunities>
+	<summons maxSummons="1">
+		<summon name="Bazir" interval="1000" chance="15" max="1"/>
+	</summons>
+	<voices interval="5000" chance="10">
+		<voice sentence="Yooodelaaahooohooo!"/>
+		<voice sentence="Yooodelaaaheeeheee!"/>
+	</voices>
+	<loot>
+		<item id="2671" countmax="3" chance="10000"/><!-- ham -->
+	</loot>
+</monster>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Torre" nameDescription="a Torre" race="undead" experience="10200" speed="0" manacost="0">
+ <health now="500000" max="500000"/>
+  <look typeex="1551" />
+  <targetchange interval="5000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="0"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="1" attack="1"/>
+    <attack name="fire" interval="2000" chance="100" range="7" min="-5" max="-200">
+      <attribute key="shootEffect" value="fire"/>
+      <attribute key="areaEffect" value="fireattack"/>
+    </attack>
+  </attacks>
+<defenses armor="20" defense="22">
+    <defense name="healing" interval="2000" chance="20" min="30" max="5000">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+  </defenses>
+  <immunities>
+    <immunity fire="1"/>
+    <immunity poison="1"/>
+  </immunities>
+  <loot>
+    <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
+  </loot>
+</monster>

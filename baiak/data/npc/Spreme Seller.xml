@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Supreme Seller" script="data/npc/scripts/supreme.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="152" head="0" body="144" legs="144" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="Supreme hat,2662,100000000;Supreme Armor,2500,100000000;Supreme Short,7730,100000000;Supreme Helmet,2665,100000000;Supreme Armor,8882,100000000;Supreme Legs,2648,100000000;Supreme Boots,11113,100000000;Supreme Livro,9002,100000000;Supreme Shield,2523,100000000;Supreme Staff,2424,200000000;Supreme Axe,7435,200000000;Supreme Sword,7385,200000000;Supreme Club,7415,200000000;Supreme Arco,8858,200000000;30 Dias De Supreme Vip,8976,80000000"/>
+	</parameters>
+1</npc>
