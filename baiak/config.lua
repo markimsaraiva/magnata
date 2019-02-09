@@ -71,7 +71,7 @@
 	allowFightback = true
 	worldId = 0
 
-	ip = "35.247.212.179"
+	ip = "142.44.145.208"
 	bindOnlyConfiguredIpAddress = false
 	loginPort = 7171
 	gamePort = 7172
@@ -98,13 +98,13 @@
 	sqlHost = "localhost"
 	sqlPort = 3306
 	sqlUser = "root"
-	sqlPass = "5656458a"
-	sqlDatabase = "database"
+	sqlPass = "sandroemarcos"
+	sqlDatabase = "baiakmagnata"
 	sqlFile = "forgottenserver.s3db"
 	sqlKeepAlive = 0
 	mysqlReadTimeout = 10
 	mysqlWriteTimeout = 10
-	encryptionType = "plain"
+	encryptionType = "sha1"
 
 
 	deathListEnabled = true
