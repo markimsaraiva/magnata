@@ -1,6 +1,6 @@
 function getPlayerTemplePos(cid)
     local town = getPlayerTown(cid)
-    local temple = getTownTemp﻿lePosition(town)
+    local temple = getTownTemplePosition(town)
     return temple or false
 end
 banStorage = 918171623
