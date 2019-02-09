@@ -9,7 +9,7 @@
 		 <globalevent name="info4" interval="2000000" event="script" value="info4.lua"/>
 		 <globalevent name="info5" interval="2000000" event="script" value="info4.lua"/>
          <globalevent name="saveplayer" interval="3500000" event="script" value="saveplayer.lua"/>
-        <globalevent name="rain" interval="0" event="script" value="rain.lua"/>
+        <globalevent name="rain" interval="2000" event="script" value="rain.lua"/>
         <globalevent name="ZombieGlobalThink" interval="5000" event="script" value="zombie/onthink.lua"/>
 <globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
         <globalevent name="invasion" interval="6000" event="script" value="invasion.lua"/>
