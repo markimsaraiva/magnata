@@ -42,7 +42,7 @@
 	autoBanishUnknownBytes = false 
 
 
-	worldType = "pvp"
+	worldType = "open"
 	protectionLevel = 80
 	pvpTileIgnoreLevelAndVocationProtection = true
 	pzLocked = 20 * 700
