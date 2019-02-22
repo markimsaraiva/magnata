@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dark witch" nameDescription="a Dark witch" race="blood" experience="120" speed="250" manacost="0">
+  <health now="200000" max="200000"/>
+  <look type="54" head="20" body="30" legs="40" feet="50" corpse="6081"/>
+  <targetchange interval="5000" chance="8"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="1"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="4"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="30"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="18" attack="350"/>
+    <attack name="fire" interval="1000" chance="20" range="7" min="-250" max="-1555">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+    <attack name="firefield" interval="1000" chance="13" range="7" radius="1" target="1">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+		<attack name="drunk" interval="1000" chance="7" range="7">
+			<attribute key="shootEffect" value="energy"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="strength" interval="1000" chance="9" range="7">
+			<attribute key="shootEffect" value="largerock"/>
+			<attribute key="areaEffect" value="energyarea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="13" radius="8" target="0" min="-600" max="-700">
+			<attribute key="areaEffect" value="bluebubble"/>
+		</attack>
+		<attack name="manadrain" interval="1000" chance="10" radius="8" target="0" min="-500" max="-700">
+			<attribute key="areaEffect" value="greenshimmer"/>
+		</attack>
+		<attack name="speed" interval="1000" chance="12" radius="6" target="0" speedchange="-1900" duration="60000">
+			<attribute key="areaEffect" value="poison"/>
+		</attack>
+		<attack name="strength" interval="1000" chance="8" radius="5" target="0">
+			<attribute key="areaEffect" value="blackspark"/>
+		</attack>
+		<attack name="fire" interval="1000" chance="34" range="7" radius="7" target="1" min="-100" max="-150">
+			<attribute key="shootEffect" value="fire"/>
+			<attribute key="areaEffect" value="firearea"/>
+		</attack>
+		<attack name="lifedrain" interval="1000" chance="15" length="8" spread="0" min="-500" max="-850">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="ice" interval="1500" chance="18" target="1" radius="4" min="500" max="-1280">
+			<attribute key="areaEffect" value="icearea"/>
+			<attribute key="shootEffect" value="smallice"/>
+		</attack>
+		<attack name="ice" interval="1500" chance="22" radius="3" target="0" min="250" max="-1160">
+			<attribute key="areaEffect" value="icetornado"/>
+		</attack>
+	</attacks>
+                <defenses armor="160" defense="160">
+		<defense name="healing" interval="1000" chance="15" min="5000" max="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="1000" chance="25" min="2000" max="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="speed" interval="1000" chance="8" speedchange="1901" duration="5000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+		<defense name="invisible" interval="1000" chance="4" duration="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="invisible" interval="1000" chance="17" duration="2000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element energyPercent="100"/>
+		<element earthPercent="-20"/>
+	</elements>
+	<immunities>
+	<immunity invisible="1"/>
+	</immunities>
+	<summons maxSummons="2">
+		<summon name="Bazir" interval="1000" chance="15" max="2"/>
+	</summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="Horax pokti!"/>
+    <voice sentence="Hihihihi!"/>
+    <voice sentence="Herba budinia ex!"/>
+  </voices>
+  <loot>
+    <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
+    <item id="2129" chance="10000"/>
+    <item id="2185" chance="833" /> -- volcanic rod
+    <item id="2643" chance="10000"/>
+    <item id="2651" chance="5000"/>
+    <item id="2696" chance="33333"/>
+    <item id="1987" chance="100000">
+      <inside>
+        <item id="2405" chance="5000"/>
+        <item id="2442" chance="1666"/>
+        <item id="2324" chance="10000"/>
+        <item id="2654" chance="3333"/>
+        <item id="2418" chance="1000"/>
+        <item id="2199" chance="1428"/>
+        <item id="2801" countmax="1" chance1="1333" chancemax="0"/>
+      </inside>
+    </item>
+  </loot>
+</monster>

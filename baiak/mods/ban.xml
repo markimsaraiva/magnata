@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<mod name="RadBr Banishment System" version="1.0" author="LuckOake" contact="none" enabled="yes">
+------------------------------------------------------------------------------------
+<config name="radban"><![CDATA[
+barid = 9971 -- ID das barras para desbanir
+
+function getPlayerAccountStorageValue(name, key)
+	local result, ret = db.getResult("SELECT `value` FROM `account_storage` WHERE `acc_id` = '".. getAccountIdByName(name) .."' AND `key` = ".. key ..";")
+	if result:getID() == -1 then
+		return nil
+	end
+	ret = result:getDataInt("value")
+	result:free()
+	return ret
+end
+
+function setPlayerAccountStorageValue(name, key, value)
+	local result = db.getResult("SELECT * FROM `account_storage` WHERE `acc_id` = ".. getAccountIdByName(name) .." AND `key` = ".. key ..";")
+	if result:getID() == -1 then
+		return db.executeQuery("INSERT INTO `account_storage` (`acc_id`, `key`, `value`) VALUES (".. getAccountIdByName(name) ..", ".. key ..", ".. value ..");")
+	else
+		result:free()
+		return db.executeQuery("UPDATE `account_storage` SET `value` = ".. value .." WHERE `acc_id` = ".. getAccountIdByName(name) .." AND `key` = ".. key ..";")
+	end
+end
+
+function getWarnings(name)
+	return getPlayerAccountStorageValue(name, 21798)
+end
+
+function setWarnings(name, count)
+	return setPlayerAccountStorageValue(name, 21798, count)
+end
+]]></config>
+------------------------------------------------------------------------------------
+<talkaction words="/ban" event="buffer"><![CDATA[
+domodlib('radban')
+		local t = string.explode(param, ",")
+		local a = {
+			[1] = 7,
+			[2] = 14,
+			[3] = 30,
+			[4] = 60,
+			[5] = 9999,
+			[6] = 9999,
+			[7] = 9999,
+			[8] = 9999,
+			[9] = 9999,
+			[10] = 9999,
+			[11] = 9999,
+		}
+		
+		local b = a[t[3]]
+		
+		if not t[2] or tonumber(t[2]) or t[3] and not tonumber(t[3]) or t[4] then
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Especifique nome,motivo,warnings(opcional).") return true
+		elseif not getPlayerGUIDByName(t[1]) then
+			doPlayerSendCancel(cid, "O jogador "..t[1].." não existe.") return true
+		elseif isAccountBanished(getAccountIdByName(t[1])) then
+			doPlayerSendCancel(cid, "O player "..t[1].." já está banido.") return true
+		elseif t[3] and tonumber(t[3]) < 1 then
+			doPlayerSendCancel(cid, "Desculpe, mas o mínimo de warnings é 1.") return true
+		elseif t[3] and tonumber(t[3]) > 11 then
+			doPlayerSendCancel(cid, "Desculpe, mas o máximo de warnings é 11.") return true
+		elseif not getWarnings(t[1]) or getWarnings(t[1]) < 0 then
+			setWarnings(t[1], 0)
+		elseif t[3] and tonumber(t[3]) <= getWarnings(t[1]) then
+			doPlayerSendCancel(cid, "Desculpe, mas esse player já tem "..getWarnings(t[1]).." warnings.") return true
+		end
+		
+		if getPlayerByName(t[1]) then
+			doRemoveCreature(getPlayerByName(t[1]))
+		end
+		if t[3] then
+			doAddAccountBanishment(getAccountIdByName(t[1]), target, os.time() + (a[tonumber(t[3])]*3600*24), 5, 2, t[2], 0)
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você baniu o jogador "..t[1]..". Warnings setadas de "..getWarnings(t[1]).." para "..t[3]..".")
+			broadcastMessage("Jogador "..t[1].." notificado por "..getCreatureName(cid)..". Notificações setadas de "..getWarnings(t[1]).." para "..t[3]..". Comentário: "..t[2]..".")
+			setWarnings(t[1], tonumber(t[3]))
+		else
+			doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você baniu o jogador "..t[1]..". Warnings setadas de "..getWarnings(t[1]).." para "..(getWarnings(t[1])+1)..".")
+			broadcastMessage("Jogador "..t[1].." notificado por "..getCreatureName(cid)..". Notificações setadas de "..getWarnings(t[1]).." para "..(getWarnings(t[1])+1)..". Comentário: "..t[2]..".")
+			setWarnings(t[1], getWarnings(t[1])+1)
+			doAddAccountBanishment(getAccountIdByName(t[1]), target, os.time() + (a[getWarnings(t[1])]*3600*24), 5, 2, t[2], 0)
+		end
+return true
+]]></talkaction>
+------------------------------------------------------------------------------------
+<talkaction words="!unban" event="buffer"><![CDATA[
+domodlib('radban')
+	local a = {
+		[1] = 20,
+		[2] = 40,
+		[3] = 60,
+		[4] = 90,
+		[5] = 120,
+		[6] = 150,
+		[7] = 250,
+		[8] = 350,
+		[9] = 500,
+		[10] = 750,
+		[11] = 999,
+	}
+	
+	b = a[getWarnings(param)]
+	
+		if not getPlayerGUIDByName(param) then
+			doPlayerSendCancel(cid, "O jogador "..param.." não existe.") return true
+		elseif not isAccountBanished(getAccountIdByName(param)) then
+			doPlayerSendCancel(cid, "Esse jogador não está banido.") return true
+		elseif not doPlayerRemoveItem(cid, barid, b) then
+			doPlayerSendCancel(cid, "Você deve ter "..b.." gold ingots para desbanir esse jogador.") return true
+		end
+		
+		doRemoveAccountBanishment(getAccountIdByName(param))
+		doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você desbaniu o jogador "..param.." pelo preço de "..b.." gold ingots.")
+return true
+]]></talkaction>
+</mod>

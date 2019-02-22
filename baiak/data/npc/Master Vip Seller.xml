@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Master Vip Seller" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="128" head="114" body="114" legs="91" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="Master Backpack,11238,50000;Master Vip Shield,7460,5000000;Master Vip Sword,2446,10000000;Master vip staff,2453,10000000;Master Vip Crossbow,8849,10000000;Master Vip Club,7432,10000000;Master vip arrow,7364,10000000;Master vip axe,2447,10000000"/>
+	</parameters>
+1</npc>

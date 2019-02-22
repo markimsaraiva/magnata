@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Master Druid" nameDescription="a master druid" race="undead" experience="6000" speed="500" manacost="0">
+  <health now="200500" max="200500"/>
+  <look type="12" corpse="6080"/>
+  <targetchange interval="5000" chance="1"/>
+  <strategy attack="90" defense="10"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="1"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="4"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="1000"/>
+  </flags>
+  <attacks>
+    <attack name="melee" interval="2000" skill="105" attack="120"/>
+    <attack name="energy" interval="1000" chance="20" range="7" min="-1200" max="-3205">
+      <attribute key="shootEffect" value="energy"/>
+    </attack>
+	<attack name="fire" interval="1000" chance="15" range="7" min="-1500" max="-3100">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="20" defense="20">
+    <defense name="healing" interval="1000" chance="13" min="300" max="400">
+      <attribute key="areaEffect" value="blueshimmer"/>
+    </defense>
+	<defense name="speed" interval="1000" chance="10" speedchange="900" duration="2000">
+      <attribute key="areaEffect" value="redshimmer"/>
+        </defense>
+  </defenses>
+        <elements>
+  <immunities>
+    <immunity physical="0"/>
+    <immunity energy="1"/>
+    <immunity fire="1"/>
+    <immunity ice="1"/>
+    <immunity lifedrain="0"/>
+    <immunity paralyze="1"/>
+    <immunity outfit="1"/>
+    <immunity drunk="1"/>
+    <immunity invisible="1"/>
+  </immunities>
+  <summons maxSummons="1">
+    <summon name="stone golem" interval="1000" chance="10" />
+  </summons>
+  <voices interval="5000" chance="10">
+    <voice sentence="Learn the secret of our magic! YOUR death!"/>
+    <voice sentence="Even a rat is a better mage than you."/>
+    <voice sentence="We don't like intruders!"/>
+  </voices>
+  <loot>
+    <item id="2148" countmax="100" chance1="100000" chancemax="0"/>
+    <item id="2185" chance="200" /> -- volcanic rod
+    <item id="1986" chance="1500"/>
+    <item id="2600" chance="10500"/>
+    <item id="2124" chance="1500"/>
+    <item id="2689" countmax="1" chance="11000"/>
+    <item id="2167" chance="3500"/>
+    <item id="2197" chance="2500"/>
+    <item id="2151" countmax="2" chance="1900"/>
+    <item id="1987" chance="105000">
+      <inside>
+        <item id="2148" countmax="50" chance1="80000" chancemax="0"/>
+        <item id="2146" countmax="2" chance="1900"/>
+        <item id="2178" countmax="1" chance="2900"/>
+        <item id="2679" countmax="4" chance="26000"/>
+        <item id="2047" chance="19000"/>
+        <item id="2411" chance="5500"/>
+        <item id="2792" countmax="5" chance1="6666" chancemax="0"/>
+        <item id="2793" countmax="2" chance1="6666" chancemax="0"/>
+        <item id="2656" chance="2500"/>
+        <item id="7898" chance="2444"/>
+        <item id="7895" chance="2222"/>
+        <item id="2466" chance="2111"/>
+        <item id="2436" chance="2428"/>
+        <item id="2123" chance="2000"/>
+      </inside>
+    </item>
+  </loot>
+<script>
+<event name="tpdruid"/>
+</script>
+</monster>

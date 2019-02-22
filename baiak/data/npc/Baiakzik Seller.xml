@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vendedor De Itens" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="134" head="39" body="114" legs="114" feet="85" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="Baiakzik Sword,7417,20000000;Baiakzik Axe,8926,20000000;Baiakzik Star,7368,20000000;Baiakzik Club,7451,20000000;Baiakzik Staff,7424,20000000;Baiakzik Shield,2538,10000000;Baiakzik Armor,2503,10000000;Baiakzik Helmet,2474,10000000;Baiakzik Legs,2504,10000000;Addon Doll,9693,3000000;Baiakzik Boots,2641,10000000;"/>
+	</parameters>
+1</npc>

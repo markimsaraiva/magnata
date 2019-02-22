@@ -1,0 +1,22 @@
+
+
+novos comandos:
+!attackguild on
+!attrackguild off
+!reparar soft
+!reparar firewalker
+!glist
+!glist (nome da guild)
+!party (muda outfit da party)
+!changeoutfit (muda outfit da guild)
+/commands
+!aol
+!bless
+!backpack
+ 
+E muito mas!!!
+
+
+
+
+bom jogo
